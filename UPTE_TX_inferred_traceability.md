@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 09–16 have not been processed. The document
+**Work in progress.** Documents 10–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -17,8 +17,8 @@ packet PDF pages 1–4.
 | 4 Reclassification | Articles 15, 16, 41 and 46; RECL-01–03 | Document 05 changes incorporated; conflicts and placement flagged |
 | 5 Differentials | Article 38 | Document 06 language incorporated |
 | 6 Remote work | Article 13; REM-01 | Document 06 incorporated; notice and LBNL relationship flagged |
-| 7.a Additional holiday | Article 12; HOL-01 | MOU wording retained |
-| 7.b Holiday proposal and exception | Article 12; HOL-01 | MOU wording retained; document 09 remains |
+| 7.a Additional holiday | Article 12; HOL-01 | MOU wording retained; interaction flagged |
+| 7.b Holiday proposal and exception | Article 12; HOL-01–02 | Document 09 additions incorporated; exception and pay conflicts flagged |
 | 8 Vacation | Article 43; VAC-01–02 | Document 07 redlines incorporated; unavailable additional language and conflicts flagged |
 | 9 Pregnancy and childcaring | Article 18; LEA-01 | MOU wording retained; document 11 remains |
 | 10.a–c Development and training | Article 8; DEV-01 | Three MOU provisions retained; referenced full proposal unresolved |
@@ -658,3 +658,79 @@ to TX. Document 07 separately supplies the RX/TX vacation redlines.
 | appendix-d | HX-only article does not amend this TX file. |
 | appendix-e | HX-only article does not amend this TX file. |
 | appendix-f | HX-only article does not amend this TX file. |
+
+## Document 09: RX/TX holiday proposal
+
+Source: `09-uc-revised-counterproposal-3-art12-holiday-rx-tx.md`, packet PDF
+pages 53–57. The MOU accepts this proposal except that Cesar Chavez remains a
+floating holiday; the MOU and proposal wording are retained with HOL-01.
+
+| Source provision | TX disposition |
+| --- | --- |
+| A | Juneteenth added. Existing list and alternate-day rule retained; Cesar Chavez exception flagged. |
+| B.1–5 | Existing eligibility provisions remain. |
+| C.1 non-exempt a–c | Former TX eight-hour and part-time provisions retained; source's conflicting full-time wording reproduced and flagged HOL-02. |
+| C.1 exempt a–b | Both new exempt holiday-not-worked provisions added verbatim; source duplicates section number 1. |
+| C.2.a–c | Existing worked-holiday terms retained; unmarked “non-exempt” difference for premium pay flagged HOL-02. |
+| D, E.1–2 | Existing religious observance and restrictions remain. |
+| F | New blue-marked dates clarify all three two-day major-holiday periods. |
+| G.1–3 | Existing LBNL provisions retained; interaction with MOU exception flagged HOL-01. |
+
+### Document 09: relevance review by file
+
+
+| TX file | Document 09 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 09 amendment identified. |
+| article-02 | Reviewed; no independent document 09 amendment identified. |
+| article-03 | Reviewed; no independent document 09 amendment identified. |
+| article-04 | Reviewed; no independent document 09 amendment identified. |
+| article-05 | Existing campus closure provisions may interact with LBNL holiday; no independent change. |
+| article-06 | Holiday compensation governed by Article 12; no independent wage change. |
+| article-07 | Reviewed; no independent document 09 amendment identified. |
+| article-08 | Reviewed; no independent document 09 amendment identified. |
+| article-09 | Reviewed; no independent document 09 amendment identified. |
+| article-10 | Reviewed; no independent document 09 amendment identified. |
+| article-11 | Reviewed; no independent document 09 amendment identified. |
+| article-12 | Juneteenth, major-holiday dates and exempt pay added; Cesar Chavez and pay conflicts flagged. |
+| article-13 | Compensatory time and overtime references remain; no independent change. |
+| article-14 | Reviewed; no independent document 09 amendment identified. |
+| article-15 | Reviewed; no independent document 09 amendment identified. |
+| article-16 | Reviewed; no independent document 09 amendment identified. |
+| article-17 | Reviewed; no independent document 09 amendment identified. |
+| article-18 | Leave eligibility remains linked to holiday provisions; no independent change. |
+| article-19 | Reviewed; no independent document 09 amendment identified. |
+| article-20 | Reviewed; no independent document 09 amendment identified. |
+| article-21 | Military leave holiday provisions remain; no independent change. |
+| article-22 | Reviewed; no independent document 09 amendment identified. |
+| article-23 | Reviewed; no independent document 09 amendment identified. |
+| article-24 | Reviewed; no independent document 09 amendment identified. |
+| article-25 | Reviewed; no independent document 09 amendment identified. |
+| article-26 | Reviewed; no independent document 09 amendment identified. |
+| article-27 | Reviewed; no independent document 09 amendment identified. |
+| article-28 | Reviewed; no independent document 09 amendment identified. |
+| article-29 | Reviewed; no independent document 09 amendment identified. |
+| article-30 | Reviewed; no independent document 09 amendment identified. |
+| article-31 | Reviewed; no independent document 09 amendment identified. |
+| article-32 | Reviewed; no independent document 09 amendment identified. |
+| article-33 | Reviewed; no independent document 09 amendment identified. |
+| article-34 | Reviewed; no independent document 09 amendment identified. |
+| article-35 | Reviewed; no independent document 09 amendment identified. |
+| article-36 | Reviewed; no independent document 09 amendment identified. |
+| article-37 | Reviewed; no independent document 09 amendment identified. |
+| article-38 | Holiday pay may include existing shift differential; no independent change. |
+| article-39 | Reviewed; no independent document 09 amendment identified. |
+| article-40 | Reviewed; no independent document 09 amendment identified. |
+| article-41 | Reviewed; no independent document 09 amendment identified. |
+| article-42 | Reviewed; no independent document 09 amendment identified. |
+| article-43 | Vacation accrual and use linked to holiday provisions; no independent change. |
+| article-44 | Reviewed; no independent document 09 amendment identified. |
+| article-45 | Reviewed; no independent document 09 amendment identified. |
+| article-46 | Reviewed; no independent document 09 amendment identified. |
+| article-47 | Reviewed; no independent document 09 amendment identified. |
+| appendix-a | Reviewed; no independent document 09 amendment identified. |
+| appendix-b | Reviewed; no independent document 09 amendment identified. |
+| appendix-c | Reviewed; no independent document 09 amendment identified. |
+| appendix-d | Reviewed; no independent document 09 amendment identified. |
+| appendix-e | Reviewed; no independent document 09 amendment identified. |
+| appendix-f | Reviewed; no independent document 09 amendment identified. |

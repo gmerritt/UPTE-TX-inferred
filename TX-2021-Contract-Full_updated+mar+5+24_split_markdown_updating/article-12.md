@@ -6,9 +6,10 @@ UPTE employees shall receive an additional floating holiday annually. The floati
 
 UC’s proposal on holidays from 12-10-24 for RXTX units and 8-14-24 for HX unit except that Cesar Chavez remains as floating holiday.
 
-**[Inference issue HOL-01: The RX/TX holiday proposal is packet document 09
-and has not yet been reconciled. The MOU's Cesar Chavez exception must be
-reconciled with the administrative holiday list and LBNL provisions below.]**
+**[Inference issues HOL-01 and HOL-02: Document 09 is incorporated below.
+The MOU's Cesar Chavez exception must be reconciled with the administrative
+holiday list and LBNL provisions. The source's exempt/non-exempt provisions
+and their relationship to the former TX language require clarification.]**
 
 1. **UNIVERSITY HOLIDAYS**
 
@@ -19,6 +20,7 @@ reconciled with the administrative holiday list and LBNL provisions below.]**
    * Third Monday in February (or announced equivalent)  
    * Cesar Chavez Day (Last Friday in March or announced equivalent) (Also see Section G.3 for LBNL)  
    * Last Monday in May  
+   * Juneteenth
    * Fourth of July  
    * Labor Day  
    * Veterans' Day (November 11th) (including Lawrence Berkeley National Laboratory if approved by the DOE) (Also see Section G.3 for LBNL)  
@@ -50,6 +52,15 @@ reconciled with the administrative holiday list and LBNL provisions below.]**
 
    1. An eligible full-time employee shall receive eight (8) hours of holiday pay, regardless of the number of hours in her/his shift, and regardless of whether or not it was worked, except as provided in Section B. 2\. above.
 
+      **[Inference issue HOL-02: Document 09 labels the corresponding
+      provision “Non-exempt Employes” and states: “An eligible full-time
+      employee shall receive eight (8) hours of holiday pay equal to the
+      employee’s regular shift, regardless of the number of hours in her/his
+      shift, and regardless of whether or not it was worked, except as
+      provided in Section B. 2. above.” The source wording is internally
+      unclear for shifts other than eight hours. The prior TX wording is
+      retained alongside the new exempt provisions pending reconciliation.]**
+
    2. An eligible part-time employee shall receive proportionate holiday pay, up to the maximum of eight (8) hours per holiday, as provided in Section B.2., above. Such holiday pay is calculated on the number of hours in pay status in the month or quadri-weekly cycle in which the holiday falls, excluding holiday hours.
 
    3. A full time employee on an alternate work schedule who is normally scheduled to work more than eight (8) hours on the day on which the holiday is observed shall be allowed to make up the difference between the eight (8) hours of holiday pay and the employee's normally scheduled hours by one of the following methods, in the workweek in which the holiday falls:
@@ -60,11 +71,22 @@ reconciled with the administrative holiday list and LBNL provisions below.]**
 
       3) working additional straight time hours scheduled at the sole discretion of the University.
 
+**Document 09: Compensation for Holiday Not Worked – Exempt Employees**
+
+1. An eligible full-time employee shall receive hours of holiday pay equal to the hours in the employee’s regular shift, except as provided in Section B. 2. above.
+
+2. An eligible part-time employee shall receive proportionate holiday pay, except as provided in Section B.2. above. Such holiday pay is calculated on the number of hours in pay status in the month or quadri-weekly cycle in which the holiday falls, excluding holiday hours.
+
 2. **Compensation For Holidays Worked**
 
    1. With the exception of the provisions in Section C.2.b., below, an employee required to work on a holiday listed above shall be paid at the employee's regular straight-time rate of pay for the hours actually worked. In addition, an eligible employee shall receive either compensatory time off or holiday pay at the option of the University at the regular straight-time rate, including any shift differential.
 
    2. An employee shall be paid at the rate of time and one-half times (1 1/2) regular pay for hours actually worked on Fourth of July, Labor Day, Memorial Day, December 25th, Thanksgiving Day**,** and New Years Day, and no alternate dates may be designated by the University.
+
+      **[Inference issue HOL-02: Document 09's corresponding provision says
+      “A non-exempt employee” rather than the former TX “An employee”; the
+      source does not mark that difference as a change. The prior TX wording
+      is retained pending clarification of exempt employees' treatment.]**
 
    3. A full time employee may be required to actually work her/his normally scheduled number of work days, excluding the holiday(s), at the straight time rate during weeks in which a holiday(s) occurs. In the event an employee is required to work her/his scheduled number of days on four (4) or more such weeks in a calendar year, the holiday hours in the fourth (4th) holiday week and beyond shall be counted as hours worked. This provision does not apply to employees who are employed to cover only weekend or only holiday schedules.
 
@@ -80,7 +102,7 @@ reconciled with the administrative holiday list and LBNL provisions below.]**
 
 6. ###### **MAJOR HOLIDAYS**
 
-   Major holidays are designated for scheduling purposes, only. Major holidays are defined as the two (2) day holiday period for Thanksgiving, December 25 and January 1\. The University will guarantee each member of the bargaining unit the
+   Major holidays are designated for scheduling purposes, only. Major holidays are defined as the two (2) day holiday period for Thanksgiving and the following day, December 24 & 25 and Dec 31 & January 1. The University will guarantee each member of the bargaining unit the
 
    opportunity to take one (1) of those two-day periods off regardless of the dates on which the University celebrates those holidays. Operational needs permitting, the University shall grant one (1) additional two (2)-day period off. Straight time holiday pay eligibility shall be determined by the official University holiday schedule. This provision does not apply to employees who are employed to cover only weekend or only holiday schedules.
 

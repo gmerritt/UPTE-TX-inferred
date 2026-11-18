@@ -165,9 +165,24 @@ alternative and says its provisions control when inconsistent with Article
 
 MOU section 7 provides an additional floating holiday and a Cesar Chavez
 exception to the cited holiday proposals. The source wording is retained in
-Article 12. The RX/TX proposal in document 09 has not yet been reviewed
-against the existing holiday list or LBNL terms, and the MOU does not itself
-spell out the detailed implementation of the Cesar Chavez exception.
+Article 12. The RX/TX proposal in document 09 lists Cesar Chavez as an
+administrative holiday, with a special LBNL floating-holiday rule, while the
+MOU says “Cesar Chavez remains as floating holiday.” The MOU does not itself
+spell out how that exception modifies the general list, the existing LBNL
+rule, or the separately stated additional floating holiday. Both known
+wordings are retained with a marker.
+
+## HOL-02: Exempt and non-exempt holiday pay
+
+Document 09 inserts exempt-employee holiday-not-worked rules. Its corresponding
+non-exempt full-time clause says both “eight (8) hours” and “equal to the
+employee’s regular shift” regardless of shift length. The prior TX clause
+provides eight hours without that qualification and does not distinguish
+exempt status. The new exempt text and both non-exempt readings are retained
+in Article 12. Document 09 also says “A non-exempt employee” for the
+time-and-one-half worked-holiday provision, while the former TX article says
+“An employee”; the former text remains pending clarification because the
+difference is not visibly marked as a change.
 
 ## VAC-01: Vacation proposals and later language
 
