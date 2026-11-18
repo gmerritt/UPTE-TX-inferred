@@ -218,3 +218,19 @@ referenced, not yet identified salary and equity materials remains unresolved.]*
 
       ii. Elimination of merit matrix
 
+#### SUCCESSOR MOU: ACCRETED TITLES — TX APPLICABILITY UNRESOLVED
+
+**[Inference issue TIT-01: The MOU does not identify the bargaining units
+for these title-specific terms. The source wording is retained for
+reconciliation, not asserted as a confirmed TX entitlement.]**
+
+15. Accreted Titles - agreement on mediation TAs
+
+    a. Dietitian 4
+
+       i. pay scales shall mirror Dietitian Sr at respective campuses, with the same number of steps and all steps 10% above the same step on the Dietitian Sr scale
+
+    b. BHC/BHPP - UC proposal passed 11/5 3:54PM
+
+    c. Optoms - UC proposals passed 11/6 1:22AM
+

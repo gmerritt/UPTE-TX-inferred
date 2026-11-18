@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** All 16 packet documents have been reviewed. The
+**Inferred draft.** All 16 packet documents have been reviewed. The
 document 01 entries record MOU-level dispositions, not a claim that missing
 or unidentified agreements have been incorporated.
 
@@ -28,7 +28,7 @@ packet PDF pages 1–4.
 | 13.a Union business leave cap | Article 17 | MOU aligns HX cap to existing RX/TX cap; no TX change supported |
 | 13.b Short-term leave | Article 17; UBL-01 | Notice changed; full referenced proposal unresolved |
 | 14 Physician assistant side letter | PA-01 | Document 13 is HX-specific; no explicit extension to TX identified |
-| 15.a–c Accreted titles | TIT-01, OPT-01, BHC-01 | MOU terms retained; documents 14–15 candidate scales reproduced with scope flagged |
+| 15.a–c Accreted titles | Article 6; TIT-01, OPT-01, BHC-01 | Exact MOU wording and documents 14–15 candidate scales reproduced with scope flagged |
 | 16 UCLA PTO side letter | PTO-01 | Document 16 reviewed; HX-specific, no explicit extension to TX identified |
 | 17 Seniority side letter | Articles 16 and 41; SEN-01 | Referenced full proposal not identified |
 | Miscellaneous: sick leave | Articles 31 and 39; SCK-01 | Referenced full proposal not identified |
@@ -43,7 +43,9 @@ The review considered every file's title and MOU-relevant text, including
 references to wages, leave, benefits, seniority, access, grievance and
 arbitration. “No independent change” means the MOU provides no specific
 replacement for that file; the provisions may still be affected by changes to
-other articles or by later packet documents.
+other articles or by later packet documents. References to a proposal or
+attachment as “pending” record the document 01 review at that stage; consult
+the corresponding later document's ledger and the issues log for current status.
 
 | File | MOU-level disposition |
 | --- | --- |
@@ -52,7 +54,7 @@ other articles or by later packet documents.
 | article-03 | Arbitration proposal and list unresolved; marked. |
 | article-04 | Healthcare attachment incorporated by document 02; historical relationship marked. |
 | article-05 | Closure vacation and sick leave reference other articles; no independent change. |
-| article-06 | Compensation text retained; missing scales and historical provisions marked. |
+| article-06 | Compensation and title-specific MOU text retained; missing scales, applicability and historical provisions marked. |
 | article-07 | Discipline and grievance references; no independent change. |
 | article-08 | Development/training MOU text retained; unresolved implementation marked. |
 | article-09 | Successor heading and prior duration conflict marked. |

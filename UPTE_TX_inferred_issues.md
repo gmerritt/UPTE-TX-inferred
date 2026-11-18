@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: issues
 
-**Work in progress.** All 16 packet documents have been reviewed, but the
+**Inferred draft.** All 16 packet documents have been reviewed, but the
 successor agreement cannot be fully reconstructed from the identified sources.
 This is not an executed contract and must not be relied on as a complete
 successor agreement.
@@ -249,6 +249,8 @@ at 1:22 AM. The MOU does not itself identify the units for these titles.
 Documents 14 and 15 contain wage tables whose relationship to these
 references and applicability to TX are not established; title-specific
 terms are not represented as TX entitlements solely on this basis.
+The exact MOU title-specific wording is reproduced in Article 6 as uncertain
+source material.
 
 ## OPT-01: Optometrist scale and placement uncertainty
 

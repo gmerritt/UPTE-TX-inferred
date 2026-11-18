@@ -1,9 +1,9 @@
 # New UPTE TX contract (inferred)
 
-**WORK IN PROGRESS — NOT AN EXECUTED OR COMPLETE AGREEMENT.** This draft
-combines the former TX contract with successor-packet changes processed so
-far. Some former language may be superseded, and marked issues remain
-unresolved. See [issues](UPTE_TX_inferred_issues.md) and
+**INFERRED DRAFT — NOT AN EXECUTED OR COMPLETE AGREEMENT.** All 16
+successor-packet documents have been reviewed against the former TX contract.
+Some former language may be superseded, referenced materials are unavailable,
+and marked issues remain unresolved. See [issues](UPTE_TX_inferred_issues.md) and
 [traceability](UPTE_TX_inferred_traceability.md) before relying on any text.
 
 ###### **ARTICLE 1 ACCESS**
@@ -889,6 +889,22 @@ referenced, not yet identified salary and equity materials remains unresolved.]*
       i. 7-7-6-6 ATBs (includes 2%/yr basebuilding in lieu of steps) in October 2025-26-27-28
 
       ii. Elimination of merit matrix
+
+#### SUCCESSOR MOU: ACCRETED TITLES — TX APPLICABILITY UNRESOLVED
+
+**[Inference issue TIT-01: The MOU does not identify the bargaining units
+for these title-specific terms. The source wording is retained for
+reconciliation, not asserted as a confirmed TX entitlement.]**
+
+15. Accreted Titles - agreement on mediation TAs
+
+    a. Dietitian 4
+
+       i. pay scales shall mirror Dietitian Sr at respective campuses, with the same number of steps and all steps 10% above the same step on the Dietitian Sr scale
+
+    b. BHC/BHPP - UC proposal passed 11/5 3:54PM
+
+    c. Optoms - UC proposals passed 11/6 1:22AM
 
 ---
 
