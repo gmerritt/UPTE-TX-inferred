@@ -5,7 +5,24 @@ proposals of 8/15/24 and 8/16/24 with additional language on 11/7/24 and
 11/8/24.” The RX/TX proposal is packet document 07 and has not yet been
 reconciled; the additional language has not been identified. The MOU also
 addresses accreted incumbents' vacation/PTO accruals; see Article 2 and
-packet document 06.]**
+the document 06 MSP language below.]**
+
+#### **ACCRETED MSP INCUMBENTS — DOCUMENT 06**
+
+Accreted incumbents in the following titles who held MSP positions prior to being represented by UPTE shall be allowed to maintain their pre-accretion vacation balance, accruals and accrual rate provided they remain in their current title. This agreement is limited to incumbents from accreted titles that have an accretion order from PERB as of November 1, 2025. UPTE shall provide the University with safe harbor from grievances related to the implementation of this clause for one year from the date of ratification of the successor collective bargaining agreement.
+
+Titles identified as TX in document 06:
+
+- COMM AND NETWORK TCHL ANL 4 TX
+- COMM AND NETWORK TCHL ANL 5 TX
+- RSCH AND DEV ENGR 4 TX
+- RSCH AND DEV ENGR 5 TX
+- SYS INTEGRATION ENGR 4 TX
+- SYS INTEGRATION ENGR 5 TX
+- USER EXP DESIGNER 4 TX
+- USER EXP DESIGNER 5 TX
+
+The source also lists “INFECTION PREVENTION CRD 4 – UPTE proposed addition, added to unit 10/30/2025” and “INFECTION PREVENTION CRD 5 - UPTE proposed addition, added to unit 10/30/2025”; it does not identify their units. Their TX applicability is unresolved. Other titles on the source list are identified as HX and are not represented here as TX rights.
 
 1. **VACATION ACCRUALS/CREDIT**
 

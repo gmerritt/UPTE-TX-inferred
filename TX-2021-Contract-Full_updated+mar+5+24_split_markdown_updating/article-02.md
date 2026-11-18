@@ -66,6 +66,9 @@ Selection list for binding fact finding: Fred Horowitz, Louis Zigman, Doug Colli
 
 No reduction in vacation/PTO accruals for incumbents in titles accreted as of 11/1/25 - TA per mediation “TA on Remote Work, MSP Vacation, Differentials” attached. Added to list: INFECTION PREVENTION CRD 4, INFECTION PREVENTION CRD 5 - accreted 10/30/25.
 
+**[See Article 43 for document 06's MSP-incumbent vacation language, TX title
+list, safe harbor and unresolved unit identification of the added titles.]**
+
 #### SUCCESSOR MOU: FINAL LANGUAGE
 
 The parties agree to meet within 60 days to finalize full language consistent with the memorandum. The deadline may be extended by mutual agreement.

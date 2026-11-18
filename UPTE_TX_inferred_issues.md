@@ -64,8 +64,12 @@ The MOU section 12 describes status quo protections, a pilot dispute process
 and protection of vacation/PTO accruals. The available wording is retained in
 Article 2 and cross-referenced in Article 43. The MOU references titles
 identified in “13.c,” but section 13 has no subsection c; no correction is
-assumed. Section 12.c refers to an attached mediation document, packet
-document 06, which has not yet been reconciled.
+assumed. Section 12.c refers to packet document 06. Its MSP protection is
+limited to specified pre-accretion MSP incumbents and their current titles,
+whereas the MOU summarizes a broader protection of incumbents' vacation/PTO
+accruals; the relationship is unresolved. Document 06 labels eight titles TX,
+labels others HX, and does not specify the unit for the two added infection
+prevention coordinator titles.
 
 ## HLT-01: Healthcare baseline and historical terms
 
@@ -116,10 +120,14 @@ supervisor with a copy to the employee. Document 05's new acknowledgment,
 forwarding and written-results provisions use different actors and recipients.
 The former wording is retained alongside the new text pending reconciliation.
 
-## REM-01 and DIF-01: Attached terms pending
+## REM-01: Remote-work notice and LBNL
 
-MOU sections 5–6 refer to differential and remote-work mediation terms in
-packet document 06. Articles 38 and 13 are marked pending its review.
+Document 06's remote-work section says changes require 30-day written notice
+but also addresses notice when 30 days is not possible and says a minimum
+30 days shall be provided for schedules established at hire. Its precise
+interaction is not resolved. Existing LBNL telecommuting language permits
+termination at any time and says 30 days' notice should be given when
+possible. Both sets of text are retained in Article 13 pending reconciliation.
 
 ## LAY-02: Layoff numbering and cross-references
 

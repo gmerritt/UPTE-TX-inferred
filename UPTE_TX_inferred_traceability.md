@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 06–16 have not been processed. The document
+**Work in progress.** Documents 07–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -15,8 +15,8 @@ packet PDF pages 1–4.
 | 2 Healthcare | Article 4, Appendices D and F; HLT-01 | Document 02 incorporated; historical relationship unresolved |
 | 3 Layoffs | Article 16; LAY-02–04 | Document 03 redlines incorporated; ambiguities flagged |
 | 4 Reclassification | Articles 15, 16, 41 and 46; RECL-01–03 | Document 05 changes incorporated; conflicts and placement flagged |
-| 5 Differentials | Article 38; DIF-01 | Attached document 06 remains |
-| 6 Remote work | Article 13; REM-01 | Attached document 06 remains |
+| 5 Differentials | Article 38 | Document 06 language incorporated |
+| 6 Remote work | Article 13; REM-01 | Document 06 incorporated; notice and LBNL relationship flagged |
 | 7.a Additional holiday | Article 12; HOL-01 | MOU wording retained |
 | 7.b Holiday proposal and exception | Article 12; HOL-01 | MOU wording retained; document 09 remains |
 | 8 Vacation | Article 43; VAC-01 | MOU wording retained as issue; document 07 and unavailable additional language remain |
@@ -24,7 +24,7 @@ packet PDF pages 1–4.
 | 10.a–c Development and training | Article 8; DEV-01 | Three MOU provisions retained; referenced full proposal unresolved |
 | 11.a Orientation | Article 1; ACC-01 | MOU wording retained; application unresolved |
 | 11.b Representatives | Article 1; ACC-02 | Cap removed and hours changed; complete formula unresolved |
-| 12.a–c Accretion | Articles 2 and 43; ACR-01 | MOU terms retained, including the source's unresolved 13.c reference; document 06 remains |
+| 12.a–c Accretion | Articles 2 and 43; ACR-01 | MOU and document 06 terms retained; unresolved scope and 13.c reference flagged |
 | 13.a Union business leave cap | Article 17 | MOU aligns HX cap to existing RX/TX cap; no TX change supported |
 | 13.b Short-term leave | Article 17; UBL-01 | Notice changed; full referenced proposal unresolved |
 | 14 Physician assistant side letter | PA-01 | Document 13 is HX-specific; no explicit extension to TX identified |
@@ -437,3 +437,74 @@ different former TX wording merely by appearing in the joint proposal.
 | appendix-d | Reviewed; no independent document 05 amendment identified. |
 | appendix-e | Reviewed; no independent document 05 amendment identified. |
 | appendix-f | Reviewed; no independent document 05 amendment identified. |
+
+## Document 06: remote work, MSP vacation and differentials
+
+Source: `06-uc-to-upte-package-remote-work-msp-differentials.md`, packet PDF
+pages 42–43. Both pages were checked visually. The MOU explicitly refers to
+the attachment and calls the remote-work language systemwide.
+
+| Source provision | TX disposition |
+| --- | --- |
+| Remote work 1–9, including 3.1 | Complete text added to Article 13. Notice and existing LBNL telecommuting relationships flagged as REM-01. |
+| MSP paragraph | Complete eligibility, preservation, cutoff and one-year safe-harbor language added to Article 43; Article 2 cross-references it. Its relationship to the MOU's broader summary is flagged ACR-01. |
+| MSP title list | Eight expressly TX-marked titles included in Article 43. HX-marked titles excluded from TX rights; both infection-prevention additions are reproduced and their unspecified unit flagged. |
+| Differentials | Both sentences added to Article 38. |
+
+### Document 06: relevance review by file
+
+| TX file | Document 06 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 06 amendment identified. |
+| article-02 | MOU accretion text cross-referenced to Article 43 MSP terms and title limitations. |
+| article-03 | Remote procedural disputes and MSP safe harbor may affect remedies; no independent change. |
+| article-04 | Reviewed; no independent document 06 amendment identified. |
+| article-05 | Reviewed; no independent document 06 amendment identified. |
+| article-06 | Shift differential bargaining intersects compensation; no independent change. |
+| article-07 | Reviewed; no independent document 06 amendment identified. |
+| article-08 | Reviewed; no independent document 06 amendment identified. |
+| article-09 | Reviewed; no independent document 06 amendment identified. |
+| article-10 | Remote procedural disputes and MSP safe harbor relate to grievance procedure; no independent change. |
+| article-11 | Reviewed; no independent document 06 amendment identified. |
+| article-12 | Reviewed; no independent document 06 amendment identified. |
+| article-13 | All nine remote-work provisions added; notice and LBNL interactions flagged. |
+| article-14 | Reviewed; no independent document 06 amendment identified. |
+| article-15 | Reviewed; no independent document 06 amendment identified. |
+| article-16 | Reviewed; no independent document 06 amendment identified. |
+| article-17 | Reviewed; no independent document 06 amendment identified. |
+| article-18 | Reviewed; no independent document 06 amendment identified. |
+| article-19 | Remote management-rights acknowledgement incorporated in Article 13; no independent change. |
+| article-20 | Reviewed; no independent document 06 amendment identified. |
+| article-21 | Reviewed; no independent document 06 amendment identified. |
+| article-22 | Reviewed; no independent document 06 amendment identified. |
+| article-23 | Reviewed; no independent document 06 amendment identified. |
+| article-24 | Reviewed; no independent document 06 amendment identified. |
+| article-25 | Reviewed; no independent document 06 amendment identified. |
+| article-26 | Reviewed; no independent document 06 amendment identified. |
+| article-27 | Reviewed; no independent document 06 amendment identified. |
+| article-28 | Reviewed; no independent document 06 amendment identified. |
+| article-29 | Reviewed; no independent document 06 amendment identified. |
+| article-30 | Reviewed; no independent document 06 amendment identified. |
+| article-31 | Reviewed; no independent document 06 amendment identified. |
+| article-32 | Reviewed; no independent document 06 amendment identified. |
+| article-33 | Existing disability accommodations retained by document 06; no independent change. |
+| article-34 | Reviewed; no independent document 06 amendment identified. |
+| article-35 | Reviewed; no independent document 06 amendment identified. |
+| article-36 | Reviewed; no independent document 06 amendment identified. |
+| article-37 | Reviewed; no independent document 06 amendment identified. |
+| article-38 | Both local differential meet-and-confer sentences added. |
+| article-39 | Reviewed; no independent document 06 amendment identified. |
+| article-40 | Reviewed; no independent document 06 amendment identified. |
+| article-41 | Reviewed; no independent document 06 amendment identified. |
+| article-42 | Reviewed; no independent document 06 amendment identified. |
+| article-43 | MSP protection, cutoff, safe harbor, TX title list and unclassified additions added; flagged. |
+| article-44 | Reviewed; no independent document 06 amendment identified. |
+| article-45 | Document 06 preserves existing disability accommodations; no specific work-injury change. |
+| article-46 | Reviewed; no independent document 06 amendment identified. |
+| article-47 | Reviewed; no independent document 06 amendment identified. |
+| appendix-a | Shift rates remain unchanged by local-bargaining provision. |
+| appendix-b | Reviewed; no independent document 06 amendment identified. |
+| appendix-c | Reviewed; no independent document 06 amendment identified. |
+| appendix-d | Reviewed; no independent document 06 amendment identified. |
+| appendix-e | Reviewed; no independent document 06 amendment identified. |
+| appendix-f | Reviewed; no independent document 06 amendment identified. |

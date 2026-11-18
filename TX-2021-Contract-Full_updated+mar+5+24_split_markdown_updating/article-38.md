@@ -1,14 +1,10 @@
    ###### **ARTICLE 38 SHIFT DIFFERENTIAL**
 
-**[Inference issue DIF-01: The successor MOU specifies local differential
-meet-and-confer language “per mediation TA document ‘TA on Remote Work, MSP
-Vacation, Differentials’ attached” and directs that it be added to this
-article. The attached text is packet document 06 and has not yet been
-incorporated.]**
-
 1. **GENERAL PROVISIONS**
 
    Non-exempt eligible employees who are regularly assigned to an evening or night shift shall be paid a shift differential for all hours including overtime which are worked, in accordance with the following provisions. These provisions only apply to those working in titles with established shift differential rates as listed by location in Appendix A. Work that is scheduled during the evening or night hours on the basis of convenience to the employee shall not be considered an assigned evening or night shift for the purpose of receiving shift differential.
+
+   Nothing in this article prohibits the parties from meeting and conferring upon mutual agreement regarding the use of shift differentials at particular locations. The Campus or Medical Centers shall ensure that relevant decision makers from the respective department or location are consulted in shift differential bargaining.
 
 2. ###### **EVENING AND NIGHT SHIFTS**
 

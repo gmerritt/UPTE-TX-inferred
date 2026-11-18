@@ -1,9 +1,31 @@
    ###### **ARTICLE 13 HOURS OF WORK**
 
 **[Inference issue REM-01: The successor MOU specifies systemwide remote work
-language “per mediation TA document ‘TA on Remote Work, MSP Vacation,
-Differentials’ attached” and directs that it be added to Hours of Work.
-The attached text is packet document 06 and has not yet been incorporated.]**
+language and directs that it be added to Hours of Work. Document 06's notice
+wording and its relationship to the existing LBNL telecommuting rules remain
+unresolved; see the issues log.]**
+
+#### **REMOTE WORK — DOCUMENT 06**
+
+1. The University supports the use of hybrid and remote work agreements when operationally feasible to support work-life balance, reduce the burden and environmental impact of commuting, and to maximize the efficient use of space in University facilities, among other benefits.
+
+2. The parties acknowledge that the University has the management right to determine whether work is performed on-site, remotely, or in a hybrid format. The University’s decisions regarding approval, denial or modification of remote/hybrid arrangements are not subject to grievance or arbitration.
+
+3. Remote and Hybrid agreements are subject to each location’s approval process. (Schedules for part-time roles will be determined by the department in alignment with this general framework.)
+
+   1. Exceptions are subject to each location’s approval process.
+
+4. Remote and hybrid work agreements shall be approved or denied by location’s approval process.
+
+5. A formal agreement is not required when an employee and supervisor agree to a non-precedent setting, ad hoc or rare occasion work schedule adjustment.
+
+6. Any changes to remote/hybrid work agreements will require 30-day written notice to the affected individual and the union. This does not include ad-hoc or rare occasion adjustments. Should 30 day notice not be possible, the University agrees to meet and confer regarding the shortened notice period as soon as practicable, upon receipt of a request to meet from UPTE. The University shall provide a minimum 30 days written notice but shall strive to provide a 60 days written notice when a hybrid or remote schedule was established at the time of hire.
+
+7. Existing employee disability accommodations remain in effect and will continue to follow the review cadence.
+
+8. Management will provide work stations/site for the onsite work days. Items that should be considered include but are not limited to adequate desk/office space, and appropriate patient care areas that meet patient privacy considerations.
+
+9. Procedural disputes over the terms of this agreement shall be subject to available procedures outlined in the CBA.
 
 1. **STANDARD WORKWEEK**
 

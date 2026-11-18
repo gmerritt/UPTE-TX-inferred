@@ -218,6 +218,9 @@ Selection list for binding fact finding: Fred Horowitz, Louis Zigman, Doug Colli
 
 No reduction in vacation/PTO accruals for incumbents in titles accreted as of 11/1/25 - TA per mediation “TA on Remote Work, MSP Vacation, Differentials” attached. Added to list: INFECTION PREVENTION CRD 4, INFECTION PREVENTION CRD 5 - accreted 10/30/25.
 
+**[See Article 43 for document 06's MSP-incumbent vacation language, TX title
+list, safe harbor and unresolved unit identification of the added titles.]**
+
 #### SUCCESSOR MOU: FINAL LANGUAGE
 
 The parties agree to meet within 60 days to finalize full language consistent with the memorandum. The deadline may be extended by mutual agreement.
@@ -1533,9 +1536,31 @@ reconciled with the administrative holiday list and LBNL provisions below.]**
    ###### **ARTICLE 13 HOURS OF WORK**
 
 **[Inference issue REM-01: The successor MOU specifies systemwide remote work
-language “per mediation TA document ‘TA on Remote Work, MSP Vacation,
-Differentials’ attached” and directs that it be added to Hours of Work.
-The attached text is packet document 06 and has not yet been incorporated.]**
+language and directs that it be added to Hours of Work. Document 06's notice
+wording and its relationship to the existing LBNL telecommuting rules remain
+unresolved; see the issues log.]**
+
+#### **REMOTE WORK — DOCUMENT 06**
+
+1. The University supports the use of hybrid and remote work agreements when operationally feasible to support work-life balance, reduce the burden and environmental impact of commuting, and to maximize the efficient use of space in University facilities, among other benefits.
+
+2. The parties acknowledge that the University has the management right to determine whether work is performed on-site, remotely, or in a hybrid format. The University’s decisions regarding approval, denial or modification of remote/hybrid arrangements are not subject to grievance or arbitration.
+
+3. Remote and Hybrid agreements are subject to each location’s approval process. (Schedules for part-time roles will be determined by the department in alignment with this general framework.)
+
+   1. Exceptions are subject to each location’s approval process.
+
+4. Remote and hybrid work agreements shall be approved or denied by location’s approval process.
+
+5. A formal agreement is not required when an employee and supervisor agree to a non-precedent setting, ad hoc or rare occasion work schedule adjustment.
+
+6. Any changes to remote/hybrid work agreements will require 30-day written notice to the affected individual and the union. This does not include ad-hoc or rare occasion adjustments. Should 30 day notice not be possible, the University agrees to meet and confer regarding the shortened notice period as soon as practicable, upon receipt of a request to meet from UPTE. The University shall provide a minimum 30 days written notice but shall strive to provide a 60 days written notice when a hybrid or remote schedule was established at the time of hire.
+
+7. Existing employee disability accommodations remain in effect and will continue to follow the review cadence.
+
+8. Management will provide work stations/site for the onsite work days. Items that should be considered include but are not limited to adequate desk/office space, and appropriate patient care areas that meet patient privacy considerations.
+
+9. Procedural disputes over the terms of this agreement shall be subject to available procedures outlined in the CBA.
 
 1. **STANDARD WORKWEEK**
 
@@ -3700,15 +3725,11 @@ The University shall submit a monthly standard earnings (based on retirement gro
 
    ###### **ARTICLE 38 SHIFT DIFFERENTIAL**
 
-**[Inference issue DIF-01: The successor MOU specifies local differential
-meet-and-confer language “per mediation TA document ‘TA on Remote Work, MSP
-Vacation, Differentials’ attached” and directs that it be added to this
-article. The attached text is packet document 06 and has not yet been
-incorporated.]**
-
 1. **GENERAL PROVISIONS**
 
    Non-exempt eligible employees who are regularly assigned to an evening or night shift shall be paid a shift differential for all hours including overtime which are worked, in accordance with the following provisions. These provisions only apply to those working in titles with established shift differential rates as listed by location in Appendix A. Work that is scheduled during the evening or night hours on the basis of convenience to the employee shall not be considered an assigned evening or night shift for the purpose of receiving shift differential.
+
+   Nothing in this article prohibits the parties from meeting and conferring upon mutual agreement regarding the use of shift differentials at particular locations. The Campus or Medical Centers shall ensure that relevant decision makers from the respective department or location are consulted in shift differential bargaining.
 
 2. ###### **EVENING AND NIGHT SHIFTS**
 
@@ -4096,7 +4117,24 @@ proposals of 8/15/24 and 8/16/24 with additional language on 11/7/24 and
 11/8/24.” The RX/TX proposal is packet document 07 and has not yet been
 reconciled; the additional language has not been identified. The MOU also
 addresses accreted incumbents' vacation/PTO accruals; see Article 2 and
-packet document 06.]**
+the document 06 MSP language below.]**
+
+#### **ACCRETED MSP INCUMBENTS — DOCUMENT 06**
+
+Accreted incumbents in the following titles who held MSP positions prior to being represented by UPTE shall be allowed to maintain their pre-accretion vacation balance, accruals and accrual rate provided they remain in their current title. This agreement is limited to incumbents from accreted titles that have an accretion order from PERB as of November 1, 2025. UPTE shall provide the University with safe harbor from grievances related to the implementation of this clause for one year from the date of ratification of the successor collective bargaining agreement.
+
+Titles identified as TX in document 06:
+
+- COMM AND NETWORK TCHL ANL 4 TX
+- COMM AND NETWORK TCHL ANL 5 TX
+- RSCH AND DEV ENGR 4 TX
+- RSCH AND DEV ENGR 5 TX
+- SYS INTEGRATION ENGR 4 TX
+- SYS INTEGRATION ENGR 5 TX
+- USER EXP DESIGNER 4 TX
+- USER EXP DESIGNER 5 TX
+
+The source also lists “INFECTION PREVENTION CRD 4 – UPTE proposed addition, added to unit 10/30/2025” and “INFECTION PREVENTION CRD 5 - UPTE proposed addition, added to unit 10/30/2025”; it does not identify their units. Their TX applicability is unresolved. Other titles on the source list are identified as HX and are not represented here as TX rights.
 
 1. **VACATION ACCRUALS/CREDIT**
 
