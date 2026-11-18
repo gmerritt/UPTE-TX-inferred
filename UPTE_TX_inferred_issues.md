@@ -207,10 +207,15 @@ seniority definition applies; Articles 16 and 41 contain different rules.
 ## LEA-01: Pregnancy and childcaring leave
 
 MOU section 9 incorporates NX Article 20(D) and extends later improvements
-within 120 days of CNA ratification. Its wording is in Article 18. Packet
-document 11 appears to contain the relevant excerpt but uses nurse-specific
-wording and refers to surrounding provisions; the excerpt and its
-relationship to the existing TX leave provisions have not yet been resolved.
+within 120 days of CNA ratification. Article 18 reproduces the complete
+document 11 excerpt alongside the MOU and former TX leave provisions. The
+source repeatedly says “nurse” and references NX sections B and C that are
+outside the excerpt; the MOU extends the provisions to UPTE units, but no
+silent adaptation or TX cross-reference mapping is assumed. The source
+includes “up to) four (4) months” and a twelve-month combined cap; the
+punctuation and interaction with the former TX parental, pregnancy and
+disability leave provisions are unresolved. Later NX improvements and their
+ratification are not identified in this packet.
 
 ## SEN-01: Seniority side letter
 

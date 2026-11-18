@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 11–16 have not been processed. The document
+**Work in progress.** Documents 12–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -20,7 +20,7 @@ packet PDF pages 1–4.
 | 7.a Additional holiday | Article 12; HOL-01 | MOU wording retained; interaction flagged |
 | 7.b Holiday proposal and exception | Article 12; HOL-01–02 | Document 09 additions incorporated; exception and pay conflicts flagged |
 | 8 Vacation | Article 43; VAC-01–02 | Document 07 redlines incorporated; unavailable additional language and conflicts flagged |
-| 9 Pregnancy and childcaring | Article 18; LEA-01 | MOU wording retained; document 11 remains |
+| 9 Pregnancy and childcaring | Article 18; LEA-01 | Complete document 11 excerpt reproduced; adaptation and later improvements flagged |
 | 10.a–c Development and training | Article 8; DEV-01 | Three MOU provisions retained; referenced full proposal unresolved |
 | 11.a Orientation | Article 1; ACC-01 | MOU wording retained; application unresolved |
 | 11.b Representatives | Article 1; ACC-02 | Cap removed and hours changed; complete formula unresolved |
@@ -810,3 +810,81 @@ own exception remains in TX Article 12 and is flagged HOL-01.
 | appendix-d | HX-only article does not amend this TX file. |
 | appendix-e | HX-only article does not amend this TX file. |
 | appendix-f | HX-only article does not amend this TX file. |
+
+## Document 11: pregnancy disability and childcaring leave
+
+Source: `11-leaves-excerpt-pregnancy-disability-childcaring-pp21-24.md`,
+packet PDF pages 62–65. The MOU expressly extends NX Article 20(D) to UPTE
+units. This untitled excerpt contains section D on those subjects, but its
+original article heading and surrounding sections are not in the packet.
+The entire text is reproduced in Article 18, with source references and
+“nurse” preserved rather than silently rewritten. LEA-01 records open
+adaptation, cross-reference and prior-TX conflicts.
+
+| Source provision | TX disposition |
+| --- | --- |
+| D opening | Combined leave purposes and twelve-month limit reproduced. |
+| D.1, a–b | Pregnancy disability, FMLA concurrency, duration and paid-leave use reproduced. |
+| D.1.c.1–2 and d.1–2 | Intermittent/reduced leave, alternative assignment and reasonable accommodation reproduced. |
+| D.2 | Six- and four-month childcaring leave, eligible family relationships, timing and notice reproduced, including source punctuation. |
+| D.3.a–b | Combined disability and childcaring leave, and personal leave, reproduced. |
+| D.4 | Health-benefits cross-reference reproduced; outside NX provision unavailable. |
+| D.5.a–c | Return-to-work and reinstatement rules reproduced; outside NX cross-reference retained. |
+
+### Document 11: relevance review by file
+
+| TX file | Document 11 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 11 amendment identified. |
+| article-02 | Reviewed; no independent document 11 amendment identified. |
+| article-03 | Reviewed; no independent document 11 amendment identified. |
+| article-04 | NX health continuation refers outside the excerpt; TX benefit terms remain and issue flagged. |
+| article-05 | Reviewed; no independent document 11 amendment identified. |
+| article-06 | Reviewed; no independent document 11 amendment identified. |
+| article-07 | Reviewed; no independent document 11 amendment identified. |
+| article-08 | Reviewed; no independent document 11 amendment identified. |
+| article-09 | Reviewed; no independent document 11 amendment identified. |
+| article-10 | Reviewed; no independent document 11 amendment identified. |
+| article-11 | Reviewed; no independent document 11 amendment identified. |
+| article-12 | Reviewed; no independent document 11 amendment identified. |
+| article-13 | Reviewed; no independent document 11 amendment identified. |
+| article-14 | Reviewed; no independent document 11 amendment identified. |
+| article-15 | Reviewed; no independent document 11 amendment identified. |
+| article-16 | NX reinstatement references layoff; no independent layoff change. |
+| article-17 | Reviewed; no independent document 11 amendment identified. |
+| article-18 | Complete NX excerpt reproduced with MOU extension; source terms and unresolved cross-references flagged. |
+| article-19 | Reviewed; no independent document 11 amendment identified. |
+| article-20 | Existing medical separation remains; excerpt references surrounding NX disability provisions. |
+| article-21 | Reviewed; no independent document 11 amendment identified. |
+| article-22 | Reviewed; no independent document 11 amendment identified. |
+| article-23 | Reviewed; no independent document 11 amendment identified. |
+| article-24 | Reviewed; no independent document 11 amendment identified. |
+| article-25 | Existing nondiscrimination protection remains; no independent change. |
+| article-26 | Reviewed; no independent document 11 amendment identified. |
+| article-27 | Reviewed; no independent document 11 amendment identified. |
+| article-28 | Reviewed; no independent document 11 amendment identified. |
+| article-29 | Reviewed; no independent document 11 amendment identified. |
+| article-30 | Reviewed; no independent document 11 amendment identified. |
+| article-31 | Reviewed; no independent document 11 amendment identified. |
+| article-32 | Reviewed; no independent document 11 amendment identified. |
+| article-33 | Existing reasonable accommodation applies alongside reproduced excerpt; no independent change. |
+| article-34 | Reviewed; no independent document 11 amendment identified. |
+| article-35 | Reviewed; no independent document 11 amendment identified. |
+| article-36 | Reviewed; no independent document 11 amendment identified. |
+| article-37 | Reviewed; no independent document 11 amendment identified. |
+| article-38 | Reviewed; no independent document 11 amendment identified. |
+| article-39 | Sick-leave use in excerpt affects Article 18; no independent change. |
+| article-40 | Reviewed; no independent document 11 amendment identified. |
+| article-41 | Reviewed; no independent document 11 amendment identified. |
+| article-42 | Reviewed; no independent document 11 amendment identified. |
+| article-43 | Vacation use in excerpt affects Article 18; no independent change. |
+| article-44 | Reviewed; no independent document 11 amendment identified. |
+| article-45 | Reviewed; no independent document 11 amendment identified. |
+| article-46 | Reviewed; no independent document 11 amendment identified. |
+| article-47 | Reviewed; no independent document 11 amendment identified. |
+| appendix-a | Reviewed; no independent document 11 amendment identified. |
+| appendix-b | Reviewed; no independent document 11 amendment identified. |
+| appendix-c | Reviewed; no independent document 11 amendment identified. |
+| appendix-d | Reviewed; no independent document 11 amendment identified. |
+| appendix-e | Reviewed; no independent document 11 amendment identified. |
+| appendix-f | Reviewed; no independent document 11 amendment identified. |
