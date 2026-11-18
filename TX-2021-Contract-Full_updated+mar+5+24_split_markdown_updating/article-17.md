@@ -39,7 +39,9 @@
 
    5. **Short-Term Leave**
 
-      1. Subject to operational considerations, upon at least thirty (30) calendar days written request to the local Labor Relations office from UPTE and the employee, no more than one (1) non-probationary, career employee, bargaining unit representative per department per campus/hospital and LBNL, pursuant to A.1. above, will be granted a leave of absence for union business for not less than two (2) days and not longer than twenty-nine (29) days. Requests for this short-term leave shall not be unreasonably denied.
+      1. Subject to operational considerations, upon at least twenty (20) calendar days written request to the local Labor Relations office from UPTE and the employee, no more than one (1) non-probationary, career employee, bargaining unit representative per department per campus/hospital and LBNL, pursuant to A.1. above, will be granted a leave of absence for union business for not less than two (2) days and not longer than twenty-nine (29) days. Requests for this short-term leave shall not be unreasonably denied.
+
+         **[Inference issue UBL-01: The MOU specifies a 20-day notice period and references a separate proposal; the complete proposal has not yet been reconciled.]**
 
    6. **One Day Leave**
 

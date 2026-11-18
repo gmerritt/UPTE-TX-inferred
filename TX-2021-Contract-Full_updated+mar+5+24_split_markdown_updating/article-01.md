@@ -36,11 +36,13 @@
 
    1. The University shall recognize UPTE designated employee representatives who are members of the bargaining unit. The function of the UPTE designated employee representative shall be to inform employees of their rights under this Agreement, to ascertain that the terms and conditions of this Agreement are being observed, and to investigate and assist in the processing of grievances.
 
-   2. For the purposes of receiving paid release time as provided in this section, UPTE may designate four (4) unit employees as "UPTE designated employee representatives" at each campus/hospital/LBNL. Additionally, in the event a campus/hospital/LBNL has more than two-hundred (200) employees, UPTE may designate one (1) additional UPTE-designated employee representative for each additional one hundred (100) bargaining unit members thereafter, up to a maximum of seven (7) UPTE designated employee representatives. UPTE shall not designate more than one (1) UPTE designated employee representative per department of 100 employees or less. For each additional one-hundred (100) employees, or fraction thereof, in a department UPTE shall be allowed one (1) additional representative in that department.
+   2. For the purposes of receiving paid release time as provided in this section, UPTE may designate four (4) unit employees as "UPTE designated employee representatives" at each campus/hospital/LBNL. Additionally, in the event a campus/hospital/LBNL has more than two-hundred (200) employees, UPTE may designate one (1) additional UPTE-designated employee representative for each additional one hundred (100) bargaining unit members thereafter. UPTE shall not designate more than one (1) UPTE designated employee representative per department of 100 employees or less. For each additional one-hundred (100) employees, or fraction thereof, in a department UPTE shall be allowed one (1) additional representative in that department.
 
-      1. The total cumulative use of paid release time for the UPTE designated employee representative shall be limited to ten (10) hours in any one (1) month. University-convened meetings pursuant to Article 10 \- Grievance Procedure, shall not be deducted from this block of time.
+      **[Inference issue ACC-02: The MOU removes the location cap and describes an additional-representative formula, but does not state the full TX implementing language.]**
 
-      2. The use of the maximum of ten (10) hours shall be for health and safety or grievance-related activities such as:
+      1. The total cumulative use of paid release time for the UPTE designated employee representative shall be limited to twelve (12) hours in any one (1) month. University-convened meetings pursuant to Article 10 \- Grievance Procedure, shall not be deducted from this block of time.
+
+      2. The use of the maximum of twelve (12) hours shall be for health and safety or grievance-related activities such as:
 
          1) Review and discussion with employees and management regarding health and safety issues;
 
@@ -54,7 +56,7 @@
 
       3. A request for release time will be made to the UPTE designated employee representative's supervisor prior to the activity. Such approval shall be granted solely on the basis of operational needs and shall not be denied unreasonably.
 
-      4. At its sole discretion, the University may authorize use of release time for more than ten (10) hours in a month per department. The exercise of this discretion and/or the enforcement by the University of the ten (10) hour maximum shall under no circumstances establish a precedent for the UPTE designated employee representative or department involved nor shall the allowance of greater than ten (10) hours in a month for an UPTE designated employee representative have any effect or bearing on the ability of the University to enforce the ten (10) hour maximum on any other UPTE designated employee representative.
+      4. At its sole discretion, the University may authorize use of release time for more than twelve (12) hours in a month per department. The exercise of this discretion and/or the enforcement by the University of the twelve (12) hour maximum shall under no circumstances establish a precedent for the UPTE designated employee representative or department involved nor shall the allowance of greater than twelve (12) hours in a month for an UPTE designated employee representative have any effect or bearing on the ability of the University to enforce the twelve (12) hour maximum on any other UPTE designated employee representative.
 
       5. Should a question of possible abuse of these release time provisions arise, the University will so notify UPTE, and the parties will attempt to resolve the matter. If a question remains, the University may take corrective action when warranted.
 
@@ -124,7 +126,7 @@
 
     2. At the University’s new employee orientations, packets of information supplied by UPTE, which may include information about the time and location of UPTE meetings, shall be distributed to all UPTE-represented employees. UPTE shall be solely responsible for providing sufficient numbers of said packets of information to the University prior to the new employee orientations.
 
-    3. At all the orientation meetings as defined in Section J.1. above, the Union shall be afforded thirty (30) minutes to meet privately with all UPTE-represented new employees who are present, during the new employee orientation meeting, who shall remain on without-loss-of-pay status during the 30 minute meeting, outside of the presence of management personnel. Up to two (2) of the Union’s representatives maybe bargaining unit members, and such bargaining unit members shall be on release time as per Article 1.C.2. Time used for these meetings will be deducted from the 10 hours/month noted in Article 1.C.2. A copy of the orientation’s completed sign-in sheet must be sent to the Union within ten (10) calendar days after the new employee orientation.
+    3. At all the orientation meetings as defined in Section J.1. above, the Union shall be afforded thirty (30) minutes to meet privately with all UPTE-represented new employees who are present, during the new employee orientation meeting, who shall remain on without-loss-of-pay status during the 30 minute meeting, outside of the presence of management personnel. Up to two (2) of the Union’s representatives maybe bargaining unit members, and such bargaining unit members shall be on release time as per Article 1.C.2. Time used for these meetings will be deducted from the 12 hours/month noted in Article 1.C.2. A copy of the orientation’s completed sign-in sheet must be sent to the Union within ten (10) calendar days after the new employee orientation.
 
     4. The University and UPTE agree to meet and discuss on a campus/hospital/LBNL basis, over arrangements to accomplish the goals of this section.
 
@@ -132,5 +134,9 @@
 
     6. The UPTE orientation session shall be during working hours and shall not exceed thirty (30) minutes.
 
-    7. The Union representative at the UPTE orientation session listed above may be bargaining unit members, and such bargaining unit members (up to 2\) may be on release time as per article 1.C.2, if the UPTE orientation is held during the Union representative normal work time. Time used for these meetings will be deducted from the 10 hours/month noted in Article 1.C.2.
+    7. The Union representative at the UPTE orientation session listed above may be bargaining unit members, and such bargaining unit members (up to 2\) may be on release time as per article 1.C.2, if the UPTE orientation is held during the Union representative normal work time. Time used for these meetings will be deducted from the 12 hours/month noted in Article 1.C.2.
+
+    8. 30 min union orientation for accreted workers (unpaid) - per mediation TA.
+
+       **[Inference issue ACC-01: The MOU summarizes this provision; its detailed application and relationship to the existing orientation provisions require reconciliation with the mediation text.]**
 

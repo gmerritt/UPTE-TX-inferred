@@ -1,5 +1,11 @@
    **ARTICLE 3 ARBITRATION**
 
+**[Inference issue ARB-01: The successor MOU states: “TA on UC’s last
+proposals (8/28) except for arbitrators’ list; remaining disputes over list
+shall be negotiated by counsel for the parties no later than 30 days after
+ratification.” The identified proposal and the outcome of those negotiations
+have not been established; the former article below is retained provisionally.]**
+
 > > > 1. **GENERAL CONDITIONS**
 
    1. **An appeal to arbitration may be made only by the union and only after the timely exhaustion of Article 10 – Grievance Procedure. The appeal to arbitration must be signed by the President of UPTE-CWA Local 9119 or their designee, and filed with the Office of Labor Relations, Office of the President. An appeal to arbitration may be made in the following ways:**

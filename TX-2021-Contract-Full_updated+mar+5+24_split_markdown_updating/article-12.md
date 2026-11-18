@@ -1,5 +1,15 @@
    ###### **ARTICLE 12 HOLIDAYS**
 
+#### SUCCESSOR MOU: HOLIDAYS
+
+UPTE employees shall receive an additional floating holiday annually. The floating holiday is non-rollable, non-cashable and the date of use subject to supervisor approval. The floating holiday shall be made available to UPTE members within 120 days of ratification.
+
+UC’s proposal on holidays from 12-10-24 for RXTX units and 8-14-24 for HX unit except that Cesar Chavez remains as floating holiday.
+
+**[Inference issue HOL-01: The RX/TX holiday proposal is packet document 09
+and has not yet been reconciled. The MOU's Cesar Chavez exception must be
+reconciled with the administrative holiday list and LBNL provisions below.]**
+
 1. **UNIVERSITY HOLIDAYS**
 
    The University shall observe the following days as administrative holidays:

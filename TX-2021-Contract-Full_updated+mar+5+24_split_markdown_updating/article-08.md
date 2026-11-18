@@ -31,6 +31,14 @@
 
 2. ###### **RELEASE TIME AND SCHEDULING**
 
+   **[Inference issue DEV-01: The successor MOU states the following changes;
+   their detailed implementing language and interaction with the existing
+   provisions, including LBNL restrictions, require reconciliation.]**
+
+   - Employees may use their paid leave on days otherwise scheduled to be off work.
+   - Remote use of all hours.
+   - Reimbursement for travel and lodging for required UC training/courses (UC proposal 11-8-24 + remote use of all hours per 10.b).
+
    1. An employee who has completed the probationary period who wishes to participate in a development program during work time shall request advance approval in accordance with departmental procedures. On completion of the program, the employee may be required to submit verification of successful completion of the program and attendance at the program. Participation in educational or training programs during scheduled work hours must be approved by the University in advance. Such leaves must not interfere with staffing requirements.
 
    2. A non-probationary employee is eligible for up to forty (40) hours of paid release time for job-related training per calendar year, prorated based on appointment rate. Except as described below, such paid release time may not be accumulated or carried over from year to year, and must be scheduled according to staffing requirements. Training courses provided by the University shall be included in the forty (40) hours. Time spent, if any, in career-related training programs shall count against the forty (40) hours.

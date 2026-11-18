@@ -1,5 +1,12 @@
    ###### **ARTICLE 43 VACATION**
 
+**[Inference issues VAC-01 and ACR-01: The successor MOU states “TA on UC’s
+proposals of 8/15/24 and 8/16/24 with additional language on 11/7/24 and
+11/8/24.” The RX/TX proposal is packet document 07 and has not yet been
+reconciled; the additional language has not been identified. The MOU also
+addresses accreted incumbents' vacation/PTO accruals; see Article 2 and
+packet document 06.]**
+
 1. **VACATION ACCRUALS/CREDIT**
 
    1. If a campus implements the following Factor Accrual System, an eligible employee shall earn vacation credit each month or quadri-weekly cycle based on the number of hours on pay status for that month or quadri-weekly cycle at the following rates:

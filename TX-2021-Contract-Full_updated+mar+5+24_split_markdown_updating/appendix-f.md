@@ -2,6 +2,10 @@
 
 **2014 Medical Plan Cost**
 
+**[Inference issue HLT-01: These are historical 2014 medical-plan costs.
+Successor healthcare terms are addressed in the MOU and packet document 02;
+they have not yet been reconciled with Article 4 or this appendix.]**
+
 **2014 Medical plan costs \- \$51,000 and under**
 
 | Plan |  | Self | Self \+ Child(ren) | Self \+ Adult | Family |

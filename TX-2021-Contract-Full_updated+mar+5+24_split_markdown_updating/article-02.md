@@ -2,6 +2,10 @@
 
     This Agreement, effective August 8, 2019, is entered into between The Regents of the University of California, a corporation (hereinafter referred to as the "University", or "management", or "employer"), represented by the Office of the President of the University of California system, and University Professional and Technical Employees \- Communications Workers of America Local 9119 union, (hereinafter referred to as "UPTE" or the "union"), pursuant to the provisions of the Higher Education Employer-Employee Relations Act (HEERA).
 
+**[Inference issue DUR-01: This is the former agreement's effective date. The
+successor MOU heading gives November 7, 2025 - September 30, 2028; the complete
+successor effective-date language is not established.]**
+
 1. ###### **PURPOSE**
 
    1. It is the intent and purpose of the parties that this Agreement constitutes an implementation of the provisions of HEERA, and provides for orderly and constructive employment relations in the public interest, in the interests of the employees represented by UPTE, and in the interests of the University.
@@ -47,4 +51,22 @@
 6. ###### **ABOLITION OF CLASSIFICATIONS**
 
    The University shall inform UPTE when classifications are abolished. The University will provide UPTE with sixty (60) calendar days notice of its intent to abolish a classification. The notice to the Union shall include a statement of the reason(s) for the abolition. In the event employees will be affected by the abolition of a classification, the University and UPTE shall, following the request of UPTE, meet and confer about such effects at least thirty (30) days before the intended date of implementation unless the parties agree otherwise. The University shall not abolish the classification unless the parties have reached agreement through the meet and confer process over effects of the decision, or conclusion of the impasse process
+
+#### SUCCESSOR MOU: ACCRETION
+
+**[Inference issue ACR-01: The following is the successor MOU's accretion
+language. The MOU refers to mediation TAs and to “13.c”; the referenced
+subsection is not present in the MOU. See also Article 43.]**
+
+During status quo, no reduction in vacation/PTO, education leave, or awards/bonus/CEMRP.
+
+Accretion Pilot Program: Both parties may submit disputes over wages and one other issue (not to include vacation accruals/caps for titles identified in 13.c) to this process. The parties agree to three bargaining sessions. If unsuccessful, certified to impasse, two mandatory mediation sessions, then binding fact finding. UPTE may submit up to 3 accreted classification series for binding fact-finding pilot program. After fact finding reports received on all pilot program titles, pilot program expires unless the parties mutually agree within 30 days of receiving the final fact-finding report to an extension or modification to the program.
+
+Selection list for binding fact finding: Fred Horowitz, Louis Zigman, Doug Collins, Norman Brand, Wilma Rader.
+
+No reduction in vacation/PTO accruals for incumbents in titles accreted as of 11/1/25 - TA per mediation “TA on Remote Work, MSP Vacation, Differentials” attached. Added to list: INFECTION PREVENTION CRD 4, INFECTION PREVENTION CRD 5 - accreted 10/30/25.
+
+#### SUCCESSOR MOU: FINAL LANGUAGE
+
+The parties agree to meet within 60 days to finalize full language consistent with the memorandum. The deadline may be extended by mutual agreement.
 

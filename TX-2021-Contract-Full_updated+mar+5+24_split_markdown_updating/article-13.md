@@ -1,5 +1,10 @@
    ###### **ARTICLE 13 HOURS OF WORK**
 
+**[Inference issue REM-01: The successor MOU specifies systemwide remote work
+language “per mediation TA document ‘TA on Remote Work, MSP Vacation,
+Differentials’ attached” and directs that it be added to Hours of Work.
+The attached text is packet document 06 and has not yet been incorporated.]**
+
 1. **STANDARD WORKWEEK**
 
    A workweek is a period of time consisting of seven (7) consecutive days. A standard workweek is from Sunday morning (12:01 a.m.) to midnight the following Saturday. Workweeks beginning and ending on a day other than the above may be established by the University.

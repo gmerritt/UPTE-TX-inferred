@@ -408,6 +408,13 @@
 
 3. ###### **PREGNANCY DISABILITY LEAVE**
 
+Pregnancy and childcaring leave shall be provided in accordance with Article 20(D) of the 2022-25 NX contract. If subsequently these NX contract provisions are improved for NX employees, then such improvements shall be extended to UPTE units within 120 days of CNA ratification.
+
+**[Inference issue LEA-01: Packet document 11 appears to contain the cited NX
+leave excerpt. It has not yet been reconciled with this article, including the
+former pregnancy and parental leave terms below and the excerpt's references
+to nurses and to surrounding provisions.]**
+
    During the period when an employee is disabled because of pregnancy, childbirth, or related medical condition, she is entitled to and the University shall grant her request for Pregnancy Disability Leave. Pregnancy Disability Leave may also be used for prenatal care.
 
    For an employee disabled by pregnancy, childbirth or related medical condition, no eligibility requirements apply, such as minimum hours worked or length of service. If the employee is eligible for FML under the FMLA, pursuant to Section

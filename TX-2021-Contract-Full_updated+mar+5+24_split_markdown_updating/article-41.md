@@ -1,5 +1,12 @@
    ###### **ARTICLE 41 TRANSFER/PROMOTION/RECLASSIFICATION**
 
+**[Inference issues RECL-01 and SEN-01: The successor MOU states
+“Reclassification - per mediation TA on HX version attached, RXTX to mirror
+changes”; packet document 05 has not yet been incorporated. It also specifies
+“Seniority Side Letter: TA on UC Proposal #2 of 3/10/25 to be incorporated
+into appropriate article of CBA.” The complete referenced seniority proposal
+has not been identified. See also Article 16.]**
+
 1. **GENERAL PROVISIONS**
 
    Until a campus/hospital/LBNL implements an electronic recruitment system, a notice of vacant positions shall be distributed and/or posted in accordance with current practice(s). Prior to implementing an electronic recruitment system, the campus will provide to all employees information about the employee application process under the new system. Any new electronic recruitment process shall be generally accessible to employees and shall have a method available for employees to determine classifications or positions that are generally available to all employees for application, in accordance with the campus system. Upon written request, the University shall provide or make accessible to UPTE a regular list of and information about positions that are under recruitment.

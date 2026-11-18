@@ -2,6 +2,12 @@
 
    **LAYOFF AND REDUCTION IN TIME**
 
+**[Inference issues LAY-01 and SEN-01: The successor MOU states “Layoffs – per
+mediation TA on 11/7.” The RX/TX layoff text is packet document 03 and has not
+yet been incorporated. The MOU also refers to a seniority side letter, whose
+complete text has not been identified. See Article 41. The former article
+below is retained provisionally.]**
+
 1. **GENERAL CONDITIONS**
 
    1. Layoffs may be temporary or indefinite and may occur because of budgetary reasons, curtailment of operations, lack of work, reorganization, or redefinition of the University's or department's needs.

@@ -161,3 +161,55 @@
 | Good | 2.8% | 2.5% | 2.2% | 1.9% |
 | Acceptable | 1.6% | 1.6% | 1.6% | 1.6% |
 
+#### SUCCESSOR MOU: COMPENSATION
+
+**[Inference issue COMP-01: The following is the successor MOU's compensation
+language. Its relationship to the preceding historical provisions and the
+referenced, not yet identified salary and equity materials remains unresolved.]**
+
+1. Compensation
+
+   a. Across-The-Board (ATB) raises
+
+      i. 5% in July 2025, 5% in July 2026, 4% in July 2027 and 4% in July 2028
+
+   b. 2025 Title-specific Equity Increases
+
+      i. UC market equity increases in “UPTE Market Based Adj Mediation Proposal 10-29-25”
+
+      ii. All others listed by title in “UPTE Equity Pool Allocation 110425,” (provided on 11/4/25 at 4:45pm) to be provided to all workers except those whose title receive an equity adjustment in 1.b.i. above. UC must raise any objections to UPTE's allocations by COB 11/10/2025.
+
+      iii. Title-specific equity to be provided within 120 days of ratification; retroactive to first pay period following ratification
+
+      iv. Total allocation of title-specific equity increases not to exceed value of 2% ATB. If the total increases described in 1.b.i and 1.b.2 equal greater than the value of a 2% ATB then the increases described in 1.b.2 will be adjusted until the total is equal to 2% ATB.
+
+   c. Impacts of new $25 minimum wage
+
+      i. All workers on steps below $25/hr moved to at least $25/hr as of July 1, 2025
+
+      ii. All steps below $25 removed from scales within 120 days of ratification and workers placed on step 1 of scale retroactive to date ratification
+
+      iii. Any title-specific increase from 1.b. above will be applied to workers impacted by 1.c.i after placement on step one above in 1.c.ii.
+
+      iv. Workers impacted by 1.c.i above receive base-building step increases of at least 2% in January 2026 and thereafter unless they reach the top of the applicable step
+
+      v. One additional step will be added to affected scales every July starting in 2026 through the life of the contract
+
+   d. Step Increases for all UPTE-represented employees outside LBNL
+
+      i. Paid in January of each year of the contract
+
+      ii. Lump sums (pensionable but not base building) for those at top step in each year of the contract - as well as retroactive to January 2025 for those who did not have a step increase imposed retroactive to January 2025 except as noted below in 1.d.iv
+
+      iii. Steps added to structures for title series per UC’s LBFO+ (10/29 7PM)
+
+      iv. All workers who would have been eligible for new steps negotiated in this agreement (in UC’s LBFO+ and UCLA scales formerly on experience based steps) and who did not have a step increase imposed retroactive to January 2025 shall receive a step increase in January 2026
+
+      v. UCLA experience-based scales to maintain the same steps but with years-of-experience requirements removed
+
+   e. LBNL shall make all reasonable efforts to secure appropriate approval for the following
+
+      i. 7-7-6-6 ATBs (includes 2%/yr basebuilding in lieu of steps) in October 2025-26-27-28
+
+      ii. Elimination of merit matrix
+

@@ -1,5 +1,10 @@
 ###### **ARTICLE 4 UNIVERSITY BENEFITS**
 
+**[Inference issue HLT-01: The successor MOU states “Healthcare - per
+mediation TA, attached.” The attached healthcare text is in packet document
+02 and has not yet been incorporated. Earlier healthcare terms below may
+conflict with it.]**
+
 1. **HEALTH AND WELFARE GENERAL CONDITIONS – Part I**
 
    Eligible employees may participate in a number of benefits programs generally available to other eligible staff employees of the University and non-represented employees at LBNL.

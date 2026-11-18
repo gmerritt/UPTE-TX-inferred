@@ -2,6 +2,10 @@
 
 **Enumeration of University Benefits**
 
+**[Inference issue HLT-01: This is a historical listing of benefits. The
+successor healthcare terms referenced by the MOU and packet document 02 have
+not yet been reconciled with Article 4 or this appendix.]**
+
 ###### **LISTING OF BENEFITS**
 
 The following is a brief listing of benefits provided to University employees, effective January 1, 2013\. More information can be found in general University benefits publications and individual summary plan descriptions. Specific eligibility and benefits under each plan are governed entirely by the terms of the applicable plan documents, custodial agreement, University of California Group Insurance Regulations, group insurance contracts, and state and federal laws. Employees in an ineligible class are excluded from coverage regardless of appointment percent and average regular paid time. For details on specific eligibility of each health and welfare program, see the Group Insurance Regulations. These benefits and amounts may be subject to change based on the renewal of this insurance annually by the University.

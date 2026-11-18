@@ -1,5 +1,9 @@
 **Appendix B LBNL Salary Ranges**
 
+**[Inference issue COMP-01: These are historical LBNL ranges. The successor
+MOU addresses LBNL increases subject to reasonable efforts to secure approval;
+updated ranges and the approval outcome have not been established.]**
+
 |  Job Code |  Job Title |  FLSA (\*) |  Grade | Min/ Hour |  Q2 | Midpt/ Hour |  Q3 | Max/ Hour |
 | ----- | :---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 650.1 | Accelerator Operator | NE | T76 | \$ 24.38 | \$ 27.15 | \$ 29.92 | \$ 32.69 | \$ 35.46 |

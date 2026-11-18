@@ -1,5 +1,9 @@
 ###### **ARTICLE 10 GRIEVANCE PROCEDURE**
 
+**[Inference issue GRV-01: The successor MOU states “TA on UC’s last proposals
+on 11/7/24.” The complete referenced proposals have not been identified; the
+former article below is retained provisionally.]**
+
 1. **GENERAL CONDITIONS**
 
    1. A grievance is a written complaint by an individual employee, a group of employees, or UPTE that the University has violated a specific provision of this Agreement. The University shall not have the right to use the grievance procedure.

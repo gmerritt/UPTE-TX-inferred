@@ -2,6 +2,8 @@
 
 1. The terms and conditions of this Agreement shall remain in full force and effect commencing on August 08, 2019, and shall terminate at 11:59 p.m. on October 31, 2024, unless the University and UPTE agree to extend any or all of the terms and conditions.
 
+   **[Inference issue DUR-01: The successor MOU is headed “November 7, 2025 - September 30, 2028.” Its signatures are dated November 8, 2025; the full implementing duration language and its relationship to the prior dates above have not been established.]**
+
 2. **CONDITIONAL RE-OPENER NEGOTIATIONS**
 
    The parties will engage in re-opener bargaining if the circumstances outlined in Article 4 \- University Benefits, Section A.1.b. and/or F.2. are satisfied. Obligations to meet and confer shall be made in accordance with the following:

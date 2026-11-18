@@ -72,6 +72,10 @@
 
 6. ###### **PER DIEM APPOINTMENTS**
 
+   **[Inference issue SCK-01: The successor MOU directs addition of a proposal
+   on sick leave credit for eligible per diem employees. Its complete language
+   has not been identified; see Article 39.]**
+
    1. Per Diem appointments are appointments at any percentage of time regardless of the duration of the appointments. These appointments are
 
       established to complement career and limited appointments when necessary to maintain appropriate staffing of the University.

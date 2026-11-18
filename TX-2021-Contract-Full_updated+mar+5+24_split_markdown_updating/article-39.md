@@ -1,5 +1,11 @@
       ###### **ARTICLE 39 SICK LEAVE**
 
+**[Inference issue SCK-01: The successor MOU directs the parties to “Add UC
+proposal for ‘Sick Leave Credit for Eligible Employees with Per Diem
+Appointments’ from UC’s 8/15/24, 8/16/24 proposals.” The complete sick leave
+proposal has not been identified; the former article is retained
+provisionally.]**
+
 1. **ACCUMULATION OF SICK LEAVE CREDIT**
 
    1. If a campus/hospital/LBNL implements the Factor Accrual System, an eligible employee shall earn sick leave credit at the rate of .046154 hours per hour on pay status, including paid holiday hours but excluding all paid overtime hours.
