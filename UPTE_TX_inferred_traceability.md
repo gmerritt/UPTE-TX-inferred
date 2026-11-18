@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 13–16 have not been processed. The document
+**Work in progress.** Documents 14–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -964,3 +964,76 @@ extend every other HX access change to TX.
 | appendix-d | HX-only proposal does not independently amend this TX file. |
 | appendix-e | HX-only proposal does not independently amend this TX file. |
 | appendix-f | HX-only proposal does not independently amend this TX file. |
+
+## Document 13: HX physician-assistant side letter
+
+Source: `13-upte-mediation-proposal-2-appendix-xx-physician-assistant-side-letter.md`,
+packet PDF page 73. The source identifies HX Appendix XX and medical centers
+only. MOU section 14 references the side letter without explicitly extending
+HX-only terms to TX.
+
+| HX source provisions | TX disposition |
+| --- | --- |
+| A.1 | Physician assistant and nurse practitioner title-series definitions; excluded from TX. |
+| B.1 and B.1.a | Scales, local title/step bargaining and no reduction for PA or PA Sr; excluded from TX. |
+| B.2 and B.2.a | Creation of PA 3 and local promotion bargaining; excluded from TX. |
+| B.3.a–d and following sentence | PA/NP alignments and advancement after six months' satisfactory performance; excluded from TX. |
+| B.4–5 | Ninety-day implementation after resolving disputes and prior-experience step placement; excluded from TX. |
+
+### Document 13: relevance review by file
+
+| TX file | HX document 13 disposition |
+| --- | --- |
+| article-01 | HX-only medical-center side letter does not amend this TX file. |
+| article-02 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-03 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-04 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-05 | HX-only medical-center side letter does not amend this TX file. |
+| article-06 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-07 | HX-only medical-center side letter does not amend this TX file. |
+| article-08 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-09 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-10 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-11 | HX-only medical-center side letter does not amend this TX file. |
+| article-12 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-13 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-14 | HX-only medical-center side letter does not amend this TX file. |
+| article-15 | HX-only medical-center side letter does not amend this TX file. |
+| article-16 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-17 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-18 | Physician assistant appears only as health-care-provider definition; HX side letter does not amend it. |
+| article-19 | HX-only medical-center side letter does not amend this TX file. |
+| article-20 | HX-only medical-center side letter does not amend this TX file. |
+| article-21 | HX-only medical-center side letter does not amend this TX file. |
+| article-22 | HX-only medical-center side letter does not amend this TX file. |
+| article-23 | HX-only medical-center side letter does not amend this TX file. |
+| article-24 | HX-only medical-center side letter does not amend this TX file. |
+| article-25 | HX-only medical-center side letter does not amend this TX file. |
+| article-26 | HX-only medical-center side letter does not amend this TX file. |
+| article-27 | HX-only medical-center side letter does not amend this TX file. |
+| article-28 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-29 | HX-only medical-center side letter does not amend this TX file. |
+| article-30 | HX-only medical-center side letter does not amend this TX file. |
+| article-31 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-32 | HX-only medical-center side letter does not amend this TX file. |
+| article-33 | HX-only medical-center side letter does not amend this TX file. |
+| article-34 | HX-only medical-center side letter does not amend this TX file. |
+| article-35 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-36 | HX-only medical-center side letter does not amend this TX file. |
+| article-37 | HX-only medical-center side letter does not amend this TX file. |
+| article-38 | HX-only medical-center side letter does not amend this TX file. |
+| article-39 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-40 | HX-only medical-center side letter does not amend this TX file. |
+| article-41 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-42 | HX-only medical-center side letter does not amend this TX file. |
+| article-43 | HX-only medical-center side letter does not amend this TX file. |
+| article-44 | HX-only medical-center side letter does not amend this TX file. |
+| article-45 | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| article-46 | HX-only medical-center side letter does not amend this TX file. |
+| article-47 | HX-only medical-center side letter does not amend this TX file. |
+| appendix-a | HX-only medical-center side letter does not amend this TX file. |
+| appendix-b | HX-only medical-center side letter does not amend this TX file. |
+| appendix-c | HX-only medical-center side letter does not amend this TX file. |
+| appendix-d | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
+| appendix-e | HX-only medical-center side letter does not amend this TX file. |
+| appendix-f | HX-only medical-center side letter does not amend this TX file. |

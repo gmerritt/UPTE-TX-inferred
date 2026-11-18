@@ -255,8 +255,9 @@ MOU sections 14 and 16 reference a physician assistant side letter and
 removal of the UCLA PTO side letter. Packet documents 13 and 16 identify
 their subject provisions as HX-specific. The MOU does not explicitly extend
 those HX terms to TX; they are tracked here rather than represented as TX
-contract rights. Their complete scope and relationship to TX will be
-considered when those documents are processed.
+contract rights. Document 13 is expressly an HX side letter applicable to
+medical centers only; its full scope has been reviewed. Document 16 remains
+to be processed.
 
 ## Baseline extraction
 
