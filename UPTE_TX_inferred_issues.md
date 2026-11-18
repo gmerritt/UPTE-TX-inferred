@@ -8,9 +8,10 @@ executed contract and must not be relied on as a complete successor agreement.
 
 The successor MOU, section 11.a (packet PDF page 3), specifies a 30-minute,
 unpaid union orientation for accreted workers and refers to a mediation TA.
-The detailed application and relationship to the existing Article 1
-orientation provisions remain to be reconciled against the packet's other
-material. The MOU wording is retained in Article 1 with an issue marker.
+Document 12's HX access proposal does not contain a separate accreted-worker
+orientation clause. The detailed application and relationship to the
+existing Article 1 orientation provisions remain unresolved. The MOU wording
+is retained in Article 1 with an issue marker.
 
 ## UBL-01: Short-term union business leave
 
@@ -26,8 +27,11 @@ found in the supplied materials.
 Section 11.b of the MOU eliminates the location cap and states a formula of
 adding a representative for each additional 100 unit employees, as well as
 12 hours per month per representative. Article 1 removes the former cap and
-changes the time references, but retains the former threshold and departmental
-provisions pending comparison with the complete applicable implementing text.
+changes the time references, reproduces the MOU formula, and retains the former
+threshold and departmental provisions pending the complete applicable TX
+implementing text. Document 12's HX proposal includes alternate-representative
+and departmental language, but the MOU does not explicitly extend those
+details to TX.
 
 ## COMP-01: Compensation sources and historical provisions
 

@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 12–16 have not been processed. The document
+**Work in progress.** Documents 13–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -22,8 +22,8 @@ packet PDF pages 1–4.
 | 8 Vacation | Article 43; VAC-01–02 | Document 07 redlines incorporated; unavailable additional language and conflicts flagged |
 | 9 Pregnancy and childcaring | Article 18; LEA-01 | Complete document 11 excerpt reproduced; adaptation and later improvements flagged |
 | 10.a–c Development and training | Article 8; DEV-01 | Three MOU provisions retained; referenced full proposal unresolved |
-| 11.a Orientation | Article 1; ACC-01 | MOU wording retained; application unresolved |
-| 11.b Representatives | Article 1; ACC-02 | Cap removed and hours changed; complete formula unresolved |
+| 11.a Orientation | Article 1; ACC-01 | MOU wording retained; document 12 supplies no separate accreted-worker clause |
+| 11.b Representatives | Article 1; ACC-02 | MOU wording reproduced; cap removed and hours changed; full TX formula unresolved |
 | 12.a–c Accretion | Articles 2 and 43; ACR-01 | MOU and document 06 terms retained; unresolved scope and 13.c reference flagged |
 | 13.a Union business leave cap | Article 17 | MOU aligns HX cap to existing RX/TX cap; no TX change supported |
 | 13.b Short-term leave | Article 17; UBL-01 | Notice changed; full referenced proposal unresolved |
@@ -888,3 +888,79 @@ adaptation, cross-reference and prior-TX conflicts.
 | appendix-d | Reviewed; no independent document 11 amendment identified. |
 | appendix-e | Reviewed; no independent document 11 amendment identified. |
 | appendix-f | Reviewed; no independent document 11 amendment identified. |
+
+## Document 12: HX access proposal
+
+Source: `12-uc-upte-mediation-counterproposal-1-art2-access-hx.md`, packet
+PDF pages 66–72. The source is expressly HX Article 2. The MOU explicitly
+identifies an accreted-worker orientation and cap/formula/hours changes for
+UPTE; its exact applicable wording is in TX Article 1. It does not expressly
+extend every other HX access change to TX.
+
+| HX source provisions | TX disposition |
+| --- | --- |
+| A, B | HX general and patient-care access; no independent TX amendment. |
+| C.1–3 | HX union access, representatives and non-work-time activities; no independent TX amendment. |
+| D.1–2 and D.2.a–e | HX representative/alternate, departmental, release-time and grievance rules; only the MOU's explicit cap/formula and twelve-hour changes are applied to TX. The full formula is flagged ACC-02. |
+| E–H | HX meeting rooms, bulletin boards, mail, telephone and email; no independent TX amendment. |
+| I.1–5 | HX employee-list format, confidentiality and indemnification; the MOU does not extend the format changes to TX. |
+| J.1.a–c | HX agreement distribution and posting; no independent TX amendment. |
+| K.1–5 | HX new-employee orientation and changed release-time references; no separate accreted-worker clause appears. The MOU's accreted-worker language remains in Article 1, flagged ACC-01. |
+
+### Document 12: relevance review by file
+
+| TX file | HX document 12 disposition |
+| --- | --- |
+| article-01 | MOU explicitly states cap/formula, twelve-hour and accreted-orientation terms; exact MOU wording and unresolved HX details flagged. |
+| article-02 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-03 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-04 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-05 | HX-only proposal does not independently amend this TX file. |
+| article-06 | HX-only proposal does not independently amend this TX file. |
+| article-07 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-08 | HX-only proposal does not independently amend this TX file. |
+| article-09 | HX-only proposal does not independently amend this TX file. |
+| article-10 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-11 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-12 | HX-only proposal does not independently amend this TX file. |
+| article-13 | HX-only proposal does not independently amend this TX file. |
+| article-14 | HX-only proposal does not independently amend this TX file. |
+| article-15 | HX-only proposal does not independently amend this TX file. |
+| article-16 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-17 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-18 | HX-only proposal does not independently amend this TX file. |
+| article-19 | HX-only proposal does not independently amend this TX file. |
+| article-20 | HX-only proposal does not independently amend this TX file. |
+| article-21 | HX-only proposal does not independently amend this TX file. |
+| article-22 | HX-only proposal does not independently amend this TX file. |
+| article-23 | HX-only proposal does not independently amend this TX file. |
+| article-24 | HX-only proposal does not independently amend this TX file. |
+| article-25 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-26 | HX-only proposal does not independently amend this TX file. |
+| article-27 | HX-only proposal does not independently amend this TX file. |
+| article-28 | HX-only proposal does not independently amend this TX file. |
+| article-29 | HX-only proposal does not independently amend this TX file. |
+| article-30 | HX-only proposal does not independently amend this TX file. |
+| article-31 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-32 | HX-only proposal does not independently amend this TX file. |
+| article-33 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-34 | HX-only proposal does not independently amend this TX file. |
+| article-35 | HX-only proposal does not independently amend this TX file. |
+| article-36 | HX-only proposal does not independently amend this TX file. |
+| article-37 | HX-only proposal does not independently amend this TX file. |
+| article-38 | HX-only proposal does not independently amend this TX file. |
+| article-39 | HX-only proposal does not independently amend this TX file. |
+| article-40 | HX-only proposal does not independently amend this TX file. |
+| article-41 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-42 | HX-only proposal does not independently amend this TX file. |
+| article-43 | Related TX references reviewed; unextended HX-only access terms not imported. |
+| article-44 | HX-only proposal does not independently amend this TX file. |
+| article-45 | HX-only proposal does not independently amend this TX file. |
+| article-46 | HX-only proposal does not independently amend this TX file. |
+| article-47 | HX-only proposal does not independently amend this TX file. |
+| appendix-a | HX-only proposal does not independently amend this TX file. |
+| appendix-b | HX-only proposal does not independently amend this TX file. |
+| appendix-c | HX-only proposal does not independently amend this TX file. |
+| appendix-d | HX-only proposal does not independently amend this TX file. |
+| appendix-e | HX-only proposal does not independently amend this TX file. |
+| appendix-f | HX-only proposal does not independently amend this TX file. |

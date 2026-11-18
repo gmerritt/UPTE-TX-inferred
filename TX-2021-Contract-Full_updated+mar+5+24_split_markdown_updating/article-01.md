@@ -38,7 +38,9 @@
 
    2. For the purposes of receiving paid release time as provided in this section, UPTE may designate four (4) unit employees as "UPTE designated employee representatives" at each campus/hospital/LBNL. Additionally, in the event a campus/hospital/LBNL has more than two-hundred (200) employees, UPTE may designate one (1) additional UPTE-designated employee representative for each additional one hundred (100) bargaining unit members thereafter. UPTE shall not designate more than one (1) UPTE designated employee representative per department of 100 employees or less. For each additional one-hundred (100) employees, or fraction thereof, in a department UPTE shall be allowed one (1) additional representative in that department.
 
-      **[Inference issue ACC-02: The MOU removes the location cap and describes an additional-representative formula, but does not state the full TX implementing language.]**
+      The successor MOU states: “Per TA on eliminating cap on number of union representatives per location and instead using formula of adding a representative for each additional 100 unit employees, and increasing number of hours per month per representative from 10 to 12.”
+
+      **[Inference issue ACC-02: The MOU removes the location cap and describes an additional-representative formula, but does not state the full TX implementing language. Document 12 is an HX access proposal with additional HX-specific alternate and departmental language; its full TX extension is not established.]**
 
       1. The total cumulative use of paid release time for the UPTE designated employee representative shall be limited to twelve (12) hours in any one (1) month. University-convened meetings pursuant to Article 10 \- Grievance Procedure, shall not be deducted from this block of time.
 
@@ -138,5 +140,8 @@
 
     8. 30 min union orientation for accreted workers (unpaid) - per mediation TA.
 
-       **[Inference issue ACC-01: The MOU summarizes this provision; its detailed application and relationship to the existing orientation provisions require reconciliation with the mediation text.]**
+       **[Inference issue ACC-01: The MOU summarizes this provision; document
+       12's HX access proposal does not provide a separate accreted-worker
+       orientation clause. Its detailed application and relationship to the
+       existing orientation provisions remain unresolved.]**
 
