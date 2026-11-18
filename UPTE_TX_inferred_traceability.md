@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 14–16 have not been processed. The document
+**Work in progress.** Documents 15–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -28,7 +28,7 @@ packet PDF pages 1–4.
 | 13.a Union business leave cap | Article 17 | MOU aligns HX cap to existing RX/TX cap; no TX change supported |
 | 13.b Short-term leave | Article 17; UBL-01 | Notice changed; full referenced proposal unresolved |
 | 14 Physician assistant side letter | PA-01 | Document 13 is HX-specific; no explicit extension to TX identified |
-| 15.a–c Accreted titles | TIT-01 | MOU terms and applicability uncertainty recorded; documents 14–15 remain |
+| 15.a–c Accreted titles | TIT-01, OPT-01 | MOU terms retained; document 14 candidate scale reproduced with scope flagged; document 15 remains |
 | 16 UCLA PTO side letter | PTO-01 | Document 16 is HX-specific; no explicit extension to TX identified |
 | 17 Seniority side letter | Articles 16 and 41; SEN-01 | Referenced full proposal not identified |
 | Miscellaneous: sick leave | Articles 31 and 39; SCK-01 | Referenced full proposal not identified |
@@ -1037,3 +1037,75 @@ HX-only terms to TX.
 | appendix-d | Related TX compensation or promotion text reviewed; HX-only side letter not imported. |
 | appendix-e | HX-only medical-center side letter does not amend this TX file. |
 | appendix-f | HX-only medical-center side letter does not amend this TX file. |
+
+## Document 14: optometrist wage proposal
+
+Source: `14-uc-mediation-wage-proposal-july-2025-5pct.md`, packet PDF page
+74, visually checked against the extraction. The MOU references a November 6
+Optoms proposal; this proposal is dated November 5 and has no unit labels.
+Document 06 identifies Optometrist 4 as HX. Neither title is asserted as a TX
+entitlement merely because the MOU mentions Optoms.
+
+| Source provision | TX disposition |
+| --- | --- |
+| Optometrist 3/EX, 9303/7930 | Full six-location candidate table reproduced in Appendix A with unknown TX applicability, including blank step 16 cells. |
+| Optometrist 4/SR, 5805/9192 | Document 06 identifies Optometrist 4 as HX; no explicit TX extension, so its scale is not imported as a TX right. |
+| Hourly/annual FLSA note and initial-placement guidelines | Complete source wording reproduced in Appendix A for the unknown-scope candidate; experience-boundary and UC-experience ambiguities flagged OPT-01. |
+
+### Document 14: relevance review by file
+
+| TX file | Document 14 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 14 amendment identified. |
+| article-02 | MOU accreted-title source references remain; no separate classification amendment. |
+| article-03 | Reviewed; no independent document 14 amendment identified. |
+| article-04 | Reviewed; no independent document 14 amendment identified. |
+| article-05 | Reviewed; no independent document 14 amendment identified. |
+| article-06 | Candidate scale cross-referenced; TX applicability and source date remain unresolved. |
+| article-07 | Reviewed; no independent document 14 amendment identified. |
+| article-08 | Reviewed; no independent document 14 amendment identified. |
+| article-09 | Reviewed; no independent document 14 amendment identified. |
+| article-10 | Reviewed; no independent document 14 amendment identified. |
+| article-11 | Reviewed; no independent document 14 amendment identified. |
+| article-12 | Reviewed; no independent document 14 amendment identified. |
+| article-13 | Reviewed; no independent document 14 amendment identified. |
+| article-14 | Reviewed; no independent document 14 amendment identified. |
+| article-15 | Reviewed; no independent document 14 amendment identified. |
+| article-16 | Reviewed; no independent document 14 amendment identified. |
+| article-17 | Reviewed; no independent document 14 amendment identified. |
+| article-18 | Reviewed; no independent document 14 amendment identified. |
+| article-19 | Reviewed; no independent document 14 amendment identified. |
+| article-20 | Reviewed; no independent document 14 amendment identified. |
+| article-21 | Reviewed; no independent document 14 amendment identified. |
+| article-22 | Reviewed; no independent document 14 amendment identified. |
+| article-23 | Reviewed; no independent document 14 amendment identified. |
+| article-24 | Reviewed; no independent document 14 amendment identified. |
+| article-25 | Reviewed; no independent document 14 amendment identified. |
+| article-26 | Reviewed; no independent document 14 amendment identified. |
+| article-27 | Reviewed; no independent document 14 amendment identified. |
+| article-28 | Reviewed; no independent document 14 amendment identified. |
+| article-29 | Reviewed; no independent document 14 amendment identified. |
+| article-30 | Reviewed; no independent document 14 amendment identified. |
+| article-31 | Reviewed; no independent document 14 amendment identified. |
+| article-32 | Reviewed; no independent document 14 amendment identified. |
+| article-33 | Reviewed; no independent document 14 amendment identified. |
+| article-34 | Reviewed; no independent document 14 amendment identified. |
+| article-35 | Reviewed; no independent document 14 amendment identified. |
+| article-36 | Reviewed; no independent document 14 amendment identified. |
+| article-37 | Reviewed; no independent document 14 amendment identified. |
+| article-38 | Reviewed; no independent document 14 amendment identified. |
+| article-39 | Reviewed; no independent document 14 amendment identified. |
+| article-40 | Reviewed; no independent document 14 amendment identified. |
+| article-41 | Step placement intersects promotion/reclassification, but no TX applicability assumed. |
+| article-42 | Reviewed; no independent document 14 amendment identified. |
+| article-43 | Reviewed; no independent document 14 amendment identified. |
+| article-44 | Reviewed; no independent document 14 amendment identified. |
+| article-45 | Reviewed; no independent document 14 amendment identified. |
+| article-46 | Reviewed; no independent document 14 amendment identified. |
+| article-47 | Reviewed; no independent document 14 amendment identified. |
+| appendix-a | Optometrist 3 six-location candidate table and full placement guidance reproduced; Optometrist 4 HX excluded. |
+| appendix-b | Existing Laboratory merit matrix remains; no independent Optometrist amendment. |
+| appendix-c | Reviewed; no independent document 14 amendment identified. |
+| appendix-d | Reviewed; no independent document 14 amendment identified. |
+| appendix-e | Reviewed; no independent document 14 amendment identified. |
+| appendix-f | Reviewed; no independent document 14 amendment identified. |

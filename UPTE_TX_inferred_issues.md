@@ -249,6 +249,19 @@ Documents 14 and 15 contain wage tables whose relationship to these
 references and applicability to TX require examination; title-specific
 terms are not represented as TX entitlements solely on this basis.
 
+## OPT-01: Optometrist scale and placement uncertainty
+
+Document 14 supplies Optometrist 3 and 4 scales and initial-placement rules,
+but does not state their bargaining units. Document 06 identifies Optometrist
+4 as HX; document 14 does not establish a TX extension. The unit of
+Optometrist 3 is not identified in these materials. Its scale and the
+placement language are preserved as candidate source text in Appendix A,
+not asserted as TX rights. The MOU references a November 6 Optoms proposal,
+whereas document 14 is dated November 5, so their exact relationship is
+unclear. Placement brackets also use “less than” and “more than” at three,
+six and ten years, leaving exact boundaries unstated, and mix relevant
+experience with UC experience; no missing boundaries are invented.
+
 ## PA-01 and PTO-01: HX-specific side letters
 
 MOU sections 14 and 16 reference a physician assistant side letter and
