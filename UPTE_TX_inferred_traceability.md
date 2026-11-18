@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 04–16 have not been processed. The document
+**Work in progress.** Documents 05–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -270,3 +270,86 @@ and deletions. The existing Article 16 was compared with all source sections.
 | appendix-d | Benefits listing; no independent layoff change. |
 | appendix-e | Parking; no independent layoff change. |
 | appendix-f | Historical medical rates; no independent layoff change. |
+
+## Document 04: HX layoff and reduction in time
+
+Source: `04-uc-mediation-proposal-art13-layoff-hx.md`, packet PDF pages
+25–35. Each page identifies the UC HX unit. The MOU states that the RX/TX
+reclassification article mirrors HX changes, but does not state that this HX
+layoff article mirrors into TX. The separate RX/TX layoff document 03 was
+processed independently. No HX-only provision is represented as a TX
+contract entitlement.
+
+| HX source provisions | Disposition |
+| --- | --- |
+| A.1–3, B.1–3 | HX general rules, types and definitions; excluded from TX. |
+| C.1.a–c, C.2.a–e and nested notices, C.3 | HX temporary/emergency alternatives, notice and conversion; excluded from TX. |
+| D.1.a–f | HX indefinite-layoff alternatives and credential provisions; excluded from TX. Similar TX provisions are separately supplied by document 03. |
+| D.2.a–f | HX seniority, selection, volunteers, posting information and limited-employee rule; excluded from TX. |
+| D.3.a–b | HX indefinite-layoff notices; excluded from TX. |
+| D.4.a–d and termination conditions | HX recall eligibility, duration and termination; excluded from TX. |
+| D.5.a–f and termination conditions | HX preferential reemployment eligibility, duration and termination; excluded from TX. |
+| D.6.a–d and nested provisions | HX severance, reduced severance, notification and repayment; excluded from TX. |
+| E.1–3, F, G | HX continuity, benefits and LBNL provisions; excluded from TX. |
+
+### Document 04: relevance review by file
+
+Every TX file was considered against the HX-only scope. Article 16 contains
+the separately negotiated RX/TX layoff text; other layoff references continue
+to refer to that TX article, not HX Article 13.
+
+| TX file | HX document 04 disposition |
+| --- | --- |
+| article-01 | HX-only article does not amend this TX file. |
+| article-02 | HX-only article does not amend this TX file. |
+| article-03 | HX-only article does not amend this TX file. |
+| article-04 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-05 | HX-only article does not amend this TX file. |
+| article-06 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-07 | HX-only article does not amend this TX file. |
+| article-08 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-09 | HX-only article does not amend this TX file. |
+| article-10 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-11 | HX-only article does not amend this TX file. |
+| article-12 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-13 | HX-only article does not amend this TX file. |
+| article-14 | HX-only article does not amend this TX file. |
+| article-15 | HX-only article does not amend this TX file. |
+| article-16 | TX layoff counterpart governed by separate RX/TX document 03; do not import HX-only terms. |
+| article-17 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-18 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-19 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-20 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-21 | HX-only article does not amend this TX file. |
+| article-22 | HX-only article does not amend this TX file. |
+| article-23 | HX-only article does not amend this TX file. |
+| article-24 | HX-only article does not amend this TX file. |
+| article-25 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-26 | HX-only article does not amend this TX file. |
+| article-27 | HX-only article does not amend this TX file. |
+| article-28 | HX-only article does not amend this TX file. |
+| article-29 | HX-only article does not amend this TX file. |
+| article-30 | HX-only article does not amend this TX file. |
+| article-31 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-32 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-33 | HX-only article does not amend this TX file. |
+| article-34 | HX-only article does not amend this TX file. |
+| article-35 | HX-only article does not amend this TX file. |
+| article-36 | HX-only article does not amend this TX file. |
+| article-37 | HX-only article does not amend this TX file. |
+| article-38 | HX-only article does not amend this TX file. |
+| article-39 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-40 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-41 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-42 | HX-only article does not amend this TX file. |
+| article-43 | HX-only article does not amend this TX file. |
+| article-44 | HX-only article does not amend this TX file. |
+| article-45 | HX-only article does not amend this TX file. |
+| article-46 | HX-only article does not amend this TX file. |
+| article-47 | HX-only article does not amend this TX file. |
+| appendix-a | HX-only article does not amend this TX file. |
+| appendix-b | HX-only article does not amend this TX file. |
+| appendix-c | HX-only article does not amend this TX file. |
+| appendix-d | HX-only article does not amend this TX file. |
+| appendix-e | HX-only article does not amend this TX file. |
+| appendix-f | HX-only article does not amend this TX file. |
