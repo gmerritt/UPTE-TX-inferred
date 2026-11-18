@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 15–16 have not been processed. The document
+**Work in progress.** Document 16 has not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -28,7 +28,7 @@ packet PDF pages 1–4.
 | 13.a Union business leave cap | Article 17 | MOU aligns HX cap to existing RX/TX cap; no TX change supported |
 | 13.b Short-term leave | Article 17; UBL-01 | Notice changed; full referenced proposal unresolved |
 | 14 Physician assistant side letter | PA-01 | Document 13 is HX-specific; no explicit extension to TX identified |
-| 15.a–c Accreted titles | TIT-01, OPT-01 | MOU terms retained; document 14 candidate scale reproduced with scope flagged; document 15 remains |
+| 15.a–c Accreted titles | TIT-01, OPT-01, BHC-01 | MOU terms retained; documents 14–15 candidate scales reproduced with scope flagged |
 | 16 UCLA PTO side letter | PTO-01 | Document 16 is HX-specific; no explicit extension to TX identified |
 | 17 Seniority side letter | Articles 16 and 41; SEN-01 | Referenced full proposal not identified |
 | Miscellaneous: sick leave | Articles 31 and 39; SCK-01 | Referenced full proposal not identified |
@@ -1109,3 +1109,75 @@ entitlement merely because the MOU mentions Optoms.
 | appendix-d | Reviewed; no independent document 14 amendment identified. |
 | appendix-e | Reviewed; no independent document 14 amendment identified. |
 | appendix-f | Reviewed; no independent document 14 amendment identified. |
+
+## Document 15: behavioral-health wage proposal
+
+Source: `15-uc-wage-proposal-all-atbs-incl-2025-5pct.md`, packet PDF pages
+75–76. The MOU references a BHC/BHPP proposal dated November 5 at 3:54 PM;
+document 15 gives that date but no time or unit labels. The entire table set
+is reproduced as candidate source material in Appendix A with BHC-01; it
+does not establish TX coverage by itself.
+
+| Source provision | TX disposition |
+| --- | --- |
+| 4146, 4145, 4144, 4143 | Counselor levels 1–4: each location, step, rate, TA annotation and blank cell preserved as candidate data. |
+| 4367, 4366, 4365, 5726 | Behavioral-health psychological professional levels 1–4: each location, step, rate, TA annotation and blank cell preserved as candidate data. Document 06 labels a similarly named level 4 title HX, with identity not established. |
+| Heading | Date and statement that the tables include all applicable ATBs including the 2025 5% ATB retained. |
+
+### Document 15: relevance review by file
+
+| TX file | Document 15 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 15 amendment identified. |
+| article-02 | MOU accreted-title source references remain; no separate unit assignment inferred. |
+| article-03 | Reviewed; no independent document 15 amendment identified. |
+| article-04 | Reviewed; no independent document 15 amendment identified. |
+| article-05 | Reviewed; no independent document 15 amendment identified. |
+| article-06 | Candidate behavioral-health scales cross-referenced; TX applicability and proposal identity unresolved. |
+| article-07 | Reviewed; no independent document 15 amendment identified. |
+| article-08 | Reviewed; no independent document 15 amendment identified. |
+| article-09 | Reviewed; no independent document 15 amendment identified. |
+| article-10 | Reviewed; no independent document 15 amendment identified. |
+| article-11 | Reviewed; no independent document 15 amendment identified. |
+| article-12 | Reviewed; no independent document 15 amendment identified. |
+| article-13 | Reviewed; no independent document 15 amendment identified. |
+| article-14 | Reviewed; no independent document 15 amendment identified. |
+| article-15 | Reviewed; no independent document 15 amendment identified. |
+| article-16 | Reviewed; no independent document 15 amendment identified. |
+| article-17 | Reviewed; no independent document 15 amendment identified. |
+| article-18 | Reviewed; no independent document 15 amendment identified. |
+| article-19 | Reviewed; no independent document 15 amendment identified. |
+| article-20 | Reviewed; no independent document 15 amendment identified. |
+| article-21 | Reviewed; no independent document 15 amendment identified. |
+| article-22 | Reviewed; no independent document 15 amendment identified. |
+| article-23 | Reviewed; no independent document 15 amendment identified. |
+| article-24 | Reviewed; no independent document 15 amendment identified. |
+| article-25 | Reviewed; no independent document 15 amendment identified. |
+| article-26 | Reviewed; no independent document 15 amendment identified. |
+| article-27 | Reviewed; no independent document 15 amendment identified. |
+| article-28 | Reviewed; no independent document 15 amendment identified. |
+| article-29 | Reviewed; no independent document 15 amendment identified. |
+| article-30 | Reviewed; no independent document 15 amendment identified. |
+| article-31 | Reviewed; no independent document 15 amendment identified. |
+| article-32 | Reviewed; no independent document 15 amendment identified. |
+| article-33 | Reviewed; no independent document 15 amendment identified. |
+| article-34 | Reviewed; no independent document 15 amendment identified. |
+| article-35 | Reviewed; no independent document 15 amendment identified. |
+| article-36 | Reviewed; no independent document 15 amendment identified. |
+| article-37 | Reviewed; no independent document 15 amendment identified. |
+| article-38 | Reviewed; no independent document 15 amendment identified. |
+| article-39 | Reviewed; no independent document 15 amendment identified. |
+| article-40 | Reviewed; no independent document 15 amendment identified. |
+| article-41 | Title and step placement may interact with reclassification; no TX applicability assumed. |
+| article-42 | Reviewed; no independent document 15 amendment identified. |
+| article-43 | Reviewed; no independent document 15 amendment identified. |
+| article-44 | Reviewed; no independent document 15 amendment identified. |
+| article-45 | Reviewed; no independent document 15 amendment identified. |
+| article-46 | Reviewed; no independent document 15 amendment identified. |
+| article-47 | Reviewed; no independent document 15 amendment identified. |
+| appendix-a | All eight behavioral-health tables and source labels reproduced as uncertain-scope candidate data. |
+| appendix-b | Existing Laboratory merit matrix remains; no independent behavioral-health amendment. |
+| appendix-c | Reviewed; no independent document 15 amendment identified. |
+| appendix-d | Reviewed; no independent document 15 amendment identified. |
+| appendix-e | Reviewed; no independent document 15 amendment identified. |
+| appendix-f | Reviewed; no independent document 15 amendment identified. |

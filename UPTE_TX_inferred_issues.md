@@ -246,7 +246,7 @@ above the corresponding Dietitian Sr step; it also references a BHC/BHPP
 proposal passed November 5 at 3:54 PM and Optoms proposals passed November 6
 at 1:22 AM. The MOU does not itself identify the units for these titles.
 Documents 14 and 15 contain wage tables whose relationship to these
-references and applicability to TX require examination; title-specific
+references and applicability to TX are not established; title-specific
 terms are not represented as TX entitlements solely on this basis.
 
 ## OPT-01: Optometrist scale and placement uncertainty
@@ -261,6 +261,17 @@ whereas document 14 is dated November 5, so their exact relationship is
 unclear. Placement brackets also use “less than” and “more than” at three,
 six and ten years, leaving exact boundaries unstated, and mix relevant
 experience with UC experience; no missing boundaries are invented.
+
+## BHC-01: Behavioral-health scales and unit uncertainty
+
+Document 15 contains counselor levels 1–4 and behavioral-health psychological
+professional levels 1–4, with eight location/step tables. It does not label
+the units or state the time of the MOU's November 5 3:54 PM proposal. Document
+06 labels “BEH HEALTH PSYCHTRC PROFL 4” HX, but does not establish whether
+that title is identical to document 15's “BEH HEALTH PSYCH PROFL 4,” code
+5726. All eight tables are preserved in Appendix A as candidate source data,
+with no representation that they establish TX rights. Empty cells remain
+empty rather than being inferred.
 
 ## PA-01 and PTO-01: HX-specific side letters
 

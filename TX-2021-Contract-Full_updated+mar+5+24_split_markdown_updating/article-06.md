@@ -7,8 +7,9 @@
    2. **Salary Rates** \- The applicable salaries are reflected on the *Corporate Title Code System Lookup* (TCS) at: [https\://tcs.ucop.edu/tcs/jsp/homePage.htm](https://tcs.ucop.edu/tcs/jsp/homePage.htm). In the event this web page expires and is replaced by a new title code system and corresponding web page, the University will provide 30 days’ notice to union advising where such title code and salary information can be found online. The parties recognize that the actual salary rates paid to employees may slightly vary from those reflected in Appendix A due to rounding.
 
       **[Document 14's Optometrist 3 candidate scale and initial-placement
-      terms are reproduced in Appendix A with TX applicability unresolved;
-      see issues TIT-01 and OPT-01.]**
+      terms and document 15's behavioral-health candidate scales are
+      reproduced in Appendix A with TX applicability unresolved; see issues
+      TIT-01, OPT-01 and BHC-01.]**
 
    3. Unless otherwise specified, pay increases (regardless of type) shall be base-building only up to the maximum of the applicable salary range. The campus or Medical Center's normal pay practices shall be followed in implementing pay increases.
 
