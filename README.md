@@ -50,8 +50,11 @@ what could not be determined.
 
 | Document | Role |
 | --- | --- |
-| `TX-2021-Contract-Full_updated+mar+5+24` | The **baseline**: former UPTE TX contract (DOCX, PDF and Markdown) |
-| `UPTE-UC+Final+Full+CLEAN+TA+11-8-25_` | The **change packet**: 77-page PDF of the negotiated changes |
+| `TX-2021-Contract-Full_updated+mar+5+24` | The **baseline**: former UPTE TX contract (DOCX, PDF and Markdown). [Original PDF at upte.org](https://upte.org/s/TX-2021-Contract-Full_updated-mar-5-24.pdf) |
+| `UPTE-UC+Final+Full+CLEAN+TA+11-8-25_` | The **change packet**: 77-page PDF of the negotiated changes. [Original PDF at upte.org](https://upte.org/s/UPTE-UC-Final-Full-CLEAN-TA-11-8-25_.pdf) |
+
+The copies in `source_documents/` are for convenience; the upte.org links are
+the original published versions.
 
 ### The 16 change documents
 
