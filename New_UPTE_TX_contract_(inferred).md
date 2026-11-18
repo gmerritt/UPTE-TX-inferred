@@ -232,6 +232,10 @@ shall be negotiated by counsel for the parties no later than 30 days after
 ratification.” The identified proposal and the outcome of those negotiations
 have not been established; the former article below is retained provisionally.]**
 
+The healthcare provisions in Article 4 provide for arbitration of disputes
+over their application and for this Article to remain in effect after
+contract expiration as to such disputes.
+
 > > > 1. **GENERAL CONDITIONS**
 
    1. **An appeal to arbitration may be made only by the union and only after the timely exhaustion of Article 10 – Grievance Procedure. The appeal to arbitration must be signed by the President of UPTE-CWA Local 9119 or their designee, and filed with the Office of Labor Relations, Office of the President. An appeal to arbitration may be made in the following ways:**
@@ -462,10 +466,52 @@ have not been established; the former article below is retained provisionally.]*
 
 ###### **ARTICLE 4 UNIVERSITY BENEFITS**
 
-**[Inference issue HLT-01: The successor MOU states “Healthcare - per
-mediation TA, attached.” The attached healthcare text is in packet document
-02 and has not yet been incorporated. Earlier healthcare terms below may
-conflict with it.]**
+#### SUCCESSOR MOU: HEALTH CARE
+
+The University's 2026 rates would serve as the baseline for rates moving forward.
+
+Every year thereafter, UPTE employees would have a 5% cap on the University’s Blue and Gold medical premium rate increases and a 7.5% cap on the University’s Kaiser premium rate increases.
+
+UPTE employees would have the following monthly subsidies.
+
+In no event will subsidies cause net employee premium costs to fall below rates for UPTE employees in the previous year.
+
+If UC offers a lower percentage cap for Kaiser or Blue and Gold or more favorable tapering of subsidies to EX or NX units, the same will be offered to UPTE. The “me too” does not apply to the overall subsidy dollar rate or to the overall cost.
+
+Following expiration of the CBA, if the parties have not reached an overall agreement for a successor contract, UC may increase the premium rates subject to the caps above, provided that subsidies continue. The parties agree to arbitrate any disputes over the application of this language pursuant to the Grievance and Arbitration articles, and that the Arbitration article will remain in effect after contract expiration as to such disputes.
+
+**2026 monthly subsidies**
+
+| Pay band | Self | Self + Child | Self + Adult | Family |
+| --- | ---: | ---: | ---: | ---: |
+| Pay Band 1 | $31 | $57 | $151 | $184 |
+| Pay Band 2 | $18 | $41 | $140 | $172 |
+| Pay Band 3 | $10 | $43 | $140 | $179 |
+| Pay Band 4 | $22 | $68 | $153 | $230 |
+
+**2027 monthly subsidies**
+
+| Pay band | Self | Self + Child | Self + Adult | Family |
+| --- | ---: | ---: | ---: | ---: |
+| Pay Band 1 | $28 | $51 | $136 | $166 |
+| Pay Band 2 | $16 | $37 | $126 | $155 |
+| Pay Band 3 | $9 | $39 | $126 | $161 |
+| Pay Band 4 | $20 | $61 | $138 | $207 |
+
+**2028 monthly subsidies**
+
+| Pay band | Self | Self + Child | Self + Adult | Family |
+| --- | ---: | ---: | ---: | ---: |
+| Pay Band 1 | $25 | $46 | $121 | $147 |
+| Pay Band 2 | $14 | $33 | $112 | $138 |
+| Pay Band 3 | $8 | $34 | $112 | $143 |
+| Pay Band 4 | $18 | $54 | $122 | $184 |
+
+**[Inference issue HLT-01: The above is the healthcare counterproposal
+attached to the successor MOU. The 2026 baseline rates and pay-band
+definitions are not supplied in that text. The relationship between the new
+percentage caps and the former $25 caps and other historical premium
+provisions below is not fully specified.]**
 
 1. **HEALTH AND WELFARE GENERAL CONDITIONS – Part I**
 
@@ -4307,8 +4353,8 @@ updated ranges and the approval outcome have not been established.]**
 **Enumeration of University Benefits**
 
 **[Inference issue HLT-01: This is a historical listing of benefits. The
-successor healthcare terms referenced by the MOU and packet document 02 have
-not yet been reconciled with Article 4 or this appendix.]**
+successor healthcare terms are retained in Article 4; their relationship to
+historical benefits and premium provisions is not fully specified.]**
 
 ###### **LISTING OF BENEFITS**
 
@@ -4459,8 +4505,8 @@ Each location may increase monthly parking rates annually for the life of the Ag
 **2014 Medical Plan Cost**
 
 **[Inference issue HLT-01: These are historical 2014 medical-plan costs.
-Successor healthcare terms are addressed in the MOU and packet document 02;
-they have not yet been reconciled with Article 4 or this appendix.]**
+Successor healthcare terms are retained in Article 4. The 2026 baseline
+rates are not supplied in the healthcare counterproposal.]**
 
 **2014 Medical plan costs \- \$51,000 and under**
 

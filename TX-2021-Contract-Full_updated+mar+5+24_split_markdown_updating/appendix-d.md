@@ -3,8 +3,8 @@
 **Enumeration of University Benefits**
 
 **[Inference issue HLT-01: This is a historical listing of benefits. The
-successor healthcare terms referenced by the MOU and packet document 02 have
-not yet been reconciled with Article 4 or this appendix.]**
+successor healthcare terms are retained in Article 4; their relationship to
+historical benefits and premium provisions is not fully specified.]**
 
 ###### **LISTING OF BENEFITS**
 

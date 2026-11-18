@@ -1,7 +1,7 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 02–16 have not been processed. The document
-01 entries below record the MOU-level dispositions, not a claim that the
+**Work in progress.** Documents 03–16 have not been processed. The document
+01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
 ## Document 01: successor MOU
@@ -12,7 +12,7 @@ packet PDF pages 1–4.
 | MOU provision | Preliminary destination or disposition | Status |
 | --- | --- | --- |
 | 1.a–e Compensation | Article 6; Appendices A and B; COMP-01 | MOU wording retained; missing scales and prior terms flagged |
-| 2 Healthcare | Article 4, Appendices D and F; HLT-01 | Attached document 02 remains to be processed |
+| 2 Healthcare | Article 4, Appendices D and F; HLT-01 | Document 02 incorporated; historical relationship unresolved |
 | 3 Layoffs | Article 16; LAY-01 | Attached document 03 remains to be processed |
 | 4 Reclassification | Article 41; RECL-01 | Explicit RX/TX mirroring noted; document 05 remains |
 | 5 Differentials | Article 38; DIF-01 | Attached document 06 remains |
@@ -50,7 +50,7 @@ other articles or by later packet documents.
 | article-01 | Access changes and unresolved orientation/formula marked. |
 | article-02 | Accretion and final-language meeting retained; old effective date marked. |
 | article-03 | Arbitration proposal and list unresolved; marked. |
-| article-04 | Healthcare attachment pending; marked. |
+| article-04 | Healthcare attachment incorporated by document 02; historical relationship marked. |
 | article-05 | Closure vacation and sick leave reference other articles; no independent change. |
 | article-06 | Compensation text retained; missing scales and historical provisions marked. |
 | article-07 | Discipline and grievance references; no independent change. |
@@ -97,6 +97,81 @@ other articles or by later packet documents.
 | appendix-a | Salary lookup and missing successor scales marked. |
 | appendix-b | Historical LBNL scales and approval uncertainty marked. |
 | appendix-c | Grievance form; MOU supplies no replacement form. |
-| appendix-d | Historical benefits listing and pending healthcare terms marked. |
+| appendix-d | Historical benefits listing and healthcare relationship marked. |
 | appendix-e | Parking rates; no independent change. |
-| appendix-f | Historical medical rates and pending healthcare terms marked. |
+| appendix-f | Historical medical rates and healthcare baseline marked. |
+
+## Document 02: healthcare counterproposal
+
+Source: `02-upte-healthcare-counterproposal.md`, packet PDF pages 5–6.
+
+| Provision | Disposition |
+| --- | --- |
+| 1: 2026 rates as baseline | Retained in Article 4; actual baseline rates not supplied, HLT-01. |
+| 2: 5% Blue and Gold and 7.5% Kaiser caps after 2026 | Retained in Article 4; relationship to historic cap flagged, HLT-01. |
+| 3: monthly subsidies | All 48 pay-band, coverage and year values retained in Article 4. |
+| 4: prior-year net-cost floor | Retained in Article 4. |
+| 5: EX/NX more-favorable caps or tapering; exceptions | Retained in Article 4. |
+| 6: post-expiration caps, subsidies and arbitration | Retained in Article 4; cross-reference added to Article 3. |
+
+### Document 02: relevance review by file
+
+The healthcare text applies to medical premiums and subsidies, not every
+use of “benefits,” “health,” or “arbitration” elsewhere. Existing references
+to Article 4 continue to point to the successor provisions.
+
+| File | Disposition |
+| --- | --- |
+| article-01 | Access; no independent healthcare premium change. |
+| article-02 | Agreement and accretion; no independent healthcare premium change. |
+| article-03 | Added reference to post-expiration healthcare arbitration. |
+| article-04 | Added complete healthcare terms and subsidy tables; historical conflict marked. |
+| article-05 | Closure; no independent healthcare premium change. |
+| article-06 | Compensation; no independent healthcare premium change. |
+| article-07 | Discipline; no independent healthcare premium change. |
+| article-08 | Development/training; no independent healthcare premium change. |
+| article-09 | Duration; healthcare post-expiration text retained in Article 4. |
+| article-10 | Grievance procedure applies by Article 4 reference; no procedure rewrite supplied. |
+| article-11 | Health and safety, not medical premiums; no independent change. |
+| article-12 | Holidays; no independent healthcare premium change. |
+| article-13 | Hours; no independent healthcare premium change. |
+| article-14 | Indemnification; no independent healthcare premium change. |
+| article-15 | Benefit-plan meetings do not specify premium rates; no independent change. |
+| article-16 | Layoff benefit references; no independent healthcare premium change. |
+| article-17 | Union leave benefits; no independent healthcare premium change. |
+| article-18 | Leave benefit references; no independent healthcare premium change. |
+| article-19 | Management rights; no independent healthcare premium change. |
+| article-20 | Medical separation; no independent healthcare premium change. |
+| article-21 | Military leave benefits; no independent healthcare premium change. |
+| article-22 | Moving expenses; no independent healthcare premium change. |
+| article-23 | References Article 4 benefits; no independent healthcare premium change. |
+| article-24 | No strikes; no independent healthcare premium change. |
+| article-25 | Nondiscrimination; no independent healthcare premium change. |
+| article-26 | Out-of-class pay; no independent healthcare premium change. |
+| article-27 | Parking; no independent healthcare premium change. |
+| article-28 | Payroll deductions; no independent healthcare premium change. |
+| article-29 | Performance evaluation; no independent healthcare premium change. |
+| article-30 | Personnel files; no independent healthcare premium change. |
+| article-31 | Appointments; no independent healthcare premium change. |
+| article-32 | Probation; no independent healthcare premium change. |
+| article-33 | Accommodation; no independent healthcare premium change. |
+| article-34 | Bargaining release time; no independent healthcare premium change. |
+| article-35 | Resignation; no independent healthcare premium change. |
+| article-36 | Respectful treatment; no independent healthcare premium change. |
+| article-37 | Severability; no independent healthcare premium change. |
+| article-38 | Shift differential; no independent healthcare premium change. |
+| article-39 | Sick leave; no independent healthcare premium change. |
+| article-40 | Subcontracting; no independent healthcare premium change. |
+| article-41 | Transfer/promotion/reclassification; no independent healthcare premium change. |
+| article-42 | Travel reimbursement; no independent healthcare premium change. |
+| article-43 | Vacation; no independent healthcare premium change. |
+| article-44 | Waiver; no independent healthcare premium change. |
+| article-45 | Work-incurred injury; no independent healthcare premium change. |
+| article-46 | Work rules; no independent healthcare premium change. |
+| article-47 | Uniforms; no independent healthcare premium change. |
+| appendix-a | Salary lookup; no independent healthcare premium change. |
+| appendix-b | LBNL salary ranges; no independent healthcare premium change. |
+| appendix-c | Grievance form; no replacement form supplied. |
+| appendix-d | Historical benefits listing retained with updated healthcare issue note. |
+| appendix-e | Parking; no independent healthcare premium change. |
+| appendix-f | Historical 2014 rates retained and distinguished from unavailable 2026 baseline. |

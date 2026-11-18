@@ -67,13 +67,22 @@ identified in “13.c,” but section 13 has no subsection c; no correction is
 assumed. Section 12.c refers to an attached mediation document, packet
 document 06, which has not yet been reconciled.
 
-## HLT-01, LAY-01, RECL-01, REM-01 and DIF-01: Attached terms pending
+## HLT-01: Healthcare baseline and historical terms
 
-MOU sections 2–6 refer respectively to healthcare, layoff,
-reclassification, remote work and differential mediation terms. These are
-identified in packet documents 02, 03, 05 and 06, but have not yet been
-incorporated or fully compared to the former contract. Articles 4, 16, 41,
-13 and 38 are marked accordingly. The MOU explicitly says RXTX are to
+The healthcare counterproposal in document 02 is retained in Article 4,
+including all monthly subsidy values. It references the University's 2026
+rates as the baseline, but does not state those rates or define the pay
+bands. It provides percentage caps beginning thereafter; the former Article
+4 has historical premium provisions including a $25 cap. Their precise
+relationship is not spelled out in the counterproposal. Appendices D and F
+are historical; Appendix F's 2014 figures are not 2026 rates.
+
+## LAY-01, RECL-01, REM-01 and DIF-01: Attached terms pending
+
+MOU sections 3–6 refer respectively to layoff, reclassification, remote work
+and differential mediation terms. These are identified in packet documents
+03, 05 and 06, but have not yet been incorporated or fully compared to the
+former contract. Articles 16, 41, 13 and 38 are marked accordingly. The MOU explicitly says RXTX are to
 mirror the HX reclassification changes.
 
 ## HOL-01: Holiday proposal and Cesar Chavez exception

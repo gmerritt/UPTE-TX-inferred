@@ -3,8 +3,8 @@
 **2014 Medical Plan Cost**
 
 **[Inference issue HLT-01: These are historical 2014 medical-plan costs.
-Successor healthcare terms are addressed in the MOU and packet document 02;
-they have not yet been reconciled with Article 4 or this appendix.]**
+Successor healthcare terms are retained in Article 4. The 2026 baseline
+rates are not supplied in the healthcare counterproposal.]**
 
 **2014 Medical plan costs \- \$51,000 and under**
 
