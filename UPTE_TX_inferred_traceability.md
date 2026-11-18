@@ -1,8 +1,8 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Document 16 has not been processed. The document
-01 entries below record the MOU-level dispositions, not a claim that all
-referenced attached or missing agreements have already been incorporated.
+**Work in progress.** All 16 packet documents have been reviewed. The
+document 01 entries record MOU-level dispositions, not a claim that missing
+or unidentified agreements have been incorporated.
 
 ## Document 01: successor MOU
 
@@ -29,7 +29,7 @@ packet PDF pages 1–4.
 | 13.b Short-term leave | Article 17; UBL-01 | Notice changed; full referenced proposal unresolved |
 | 14 Physician assistant side letter | PA-01 | Document 13 is HX-specific; no explicit extension to TX identified |
 | 15.a–c Accreted titles | TIT-01, OPT-01, BHC-01 | MOU terms retained; documents 14–15 candidate scales reproduced with scope flagged |
-| 16 UCLA PTO side letter | PTO-01 | Document 16 is HX-specific; no explicit extension to TX identified |
+| 16 UCLA PTO side letter | PTO-01 | Document 16 reviewed; HX-specific, no explicit extension to TX identified |
 | 17 Seniority side letter | Articles 16 and 41; SEN-01 | Referenced full proposal not identified |
 | Miscellaneous: sick leave | Articles 31 and 39; SCK-01 | Referenced full proposal not identified |
 | Miscellaneous: grievance | Article 10; GRV-01 | Referenced full proposal not identified |
@@ -1181,3 +1181,78 @@ does not establish TX coverage by itself.
 | appendix-d | Reviewed; no independent document 15 amendment identified. |
 | appendix-e | Reviewed; no independent document 15 amendment identified. |
 | appendix-f | Reviewed; no independent document 15 amendment identified. |
+
+## Document 16: UCLA PTO side letter
+
+Source: `16-ucla-pto-side-letter.md`, packet PDF page 77. The side letter
+explicitly conditions conversion on ratification of the HX successor
+agreement and applies the HX sick-leave and vacation articles. The MOU
+references its removal without explicitly extending these HX terms to TX.
+The PDF shows blank signature lines, notwithstanding the split README
+description's claim that it is signed.
+
+| HX source provisions | TX disposition |
+| --- | --- |
+| Opening and 90-day conversion | Removal of UCLA Medical Centers PTO side letter and conversion to HX Articles 36 and 42; not imported into TX. |
+| 1 | UCLA conversion processes; not imported into TX. |
+| 2 | Payout reducing vacation balances to 80% of the HX maximum; not imported into TX. |
+| 3 | Converted employees subject to HX Articles 36 and 42; not imported into TX. |
+| Signature lines | Blank on packet PDF; execution not inferred. |
+
+### Document 16: relevance review by file
+
+| TX file | HX document 16 disposition |
+| --- | --- |
+| article-01 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-02 | MOU accretion PTO protections retained; HX UCLA conversion not extended to TX. |
+| article-03 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-04 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-05 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-06 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-07 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-08 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-09 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-10 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-11 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-12 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-13 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-14 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-15 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-16 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-17 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-18 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-19 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-20 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-21 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-22 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-23 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-24 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-25 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-26 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-27 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-28 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-29 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-30 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-31 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-32 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-33 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-34 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-35 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-36 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-37 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-38 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-39 | TX sick leave remains; HX conversion to Article 36 not imported. |
+| article-40 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-41 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-42 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-43 | TX vacation article and MOU protections remain; HX Articles 36/42 conversion not imported. |
+| article-44 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-45 | Related TX leave references reviewed; HX-only UCLA conversion does not amend them. |
+| article-46 | HX-only UCLA PTO side letter does not amend this TX file. |
+| article-47 | HX-only UCLA PTO side letter does not amend this TX file. |
+| appendix-a | HX-only UCLA PTO side letter does not amend this TX file. |
+| appendix-b | HX-only UCLA PTO side letter does not amend this TX file. |
+| appendix-c | HX-only UCLA PTO side letter does not amend this TX file. |
+| appendix-d | HX-only UCLA PTO side letter does not amend this TX file. |
+| appendix-e | HX-only UCLA PTO side letter does not amend this TX file. |
+| appendix-f | HX-only UCLA PTO side letter does not amend this TX file. |

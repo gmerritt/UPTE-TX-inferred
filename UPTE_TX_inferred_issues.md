@@ -1,8 +1,9 @@
 # UPTE TX inferred contract: issues
 
-**Work in progress.** The successor agreement has not been fully reconstructed.
-Only the changes identified below have been started. The documents are not an
-executed contract and must not be relied on as a complete successor agreement.
+**Work in progress.** All 16 packet documents have been reviewed, but the
+successor agreement cannot be fully reconstructed from the identified sources.
+This is not an executed contract and must not be relied on as a complete
+successor agreement.
 
 ## ACC-01: Accreted-worker orientation
 
@@ -280,8 +281,10 @@ removal of the UCLA PTO side letter. Packet documents 13 and 16 identify
 their subject provisions as HX-specific. The MOU does not explicitly extend
 those HX terms to TX; they are tracked here rather than represented as TX
 contract rights. Document 13 is expressly an HX side letter applicable to
-medical centers only; its full scope has been reviewed. Document 16 remains
-to be processed.
+medical centers only. Document 16 conditions the UCLA conversion on
+ratification of the HX successor agreement and references HX Articles 36 and
+42. Its PDF shows blank signature lines; the split-file description's
+assertion that it is signed is not supported by that page.
 
 ## Baseline extraction
 
