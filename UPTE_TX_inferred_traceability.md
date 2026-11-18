@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 07–16 have not been processed. The document
+**Work in progress.** Documents 08–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -19,7 +19,7 @@ packet PDF pages 1–4.
 | 6 Remote work | Article 13; REM-01 | Document 06 incorporated; notice and LBNL relationship flagged |
 | 7.a Additional holiday | Article 12; HOL-01 | MOU wording retained |
 | 7.b Holiday proposal and exception | Article 12; HOL-01 | MOU wording retained; document 09 remains |
-| 8 Vacation | Article 43; VAC-01 | MOU wording retained as issue; document 07 and unavailable additional language remain |
+| 8 Vacation | Article 43; VAC-01–02 | Document 07 redlines incorporated; unavailable additional language and conflicts flagged |
 | 9 Pregnancy and childcaring | Article 18; LEA-01 | MOU wording retained; document 11 remains |
 | 10.a–c Development and training | Article 8; DEV-01 | Three MOU provisions retained; referenced full proposal unresolved |
 | 11.a Orientation | Article 1; ACC-01 | MOU wording retained; application unresolved |
@@ -508,3 +508,79 @@ the attachment and calls the remote-work language systemwide.
 | appendix-d | Reviewed; no independent document 06 amendment identified. |
 | appendix-e | Reviewed; no independent document 06 amendment identified. |
 | appendix-f | Reviewed; no independent document 06 amendment identified. |
+
+## Document 07: RX/TX vacation proposal
+
+Source: `07-uc-proposal-1-art43-vacation-rx-tx.md`, packet PDF pages 44–48.
+The redlined PDF was checked visually; struck text in the Markdown extraction
+is not treated as an addition.
+
+| Source provision | TX disposition |
+| --- | --- |
+| A.1 and table | Removed condition tying factor accrual to campus implementation. All four rates, annual earnings, maximums and footnotes remain. |
+| A.2 | Struck table-accrual system removed. |
+| A.3 | Crediting rule remains. |
+| A.4–5 | Struck A&PS counterpart removed, with differing 1997 dates flagged VAC-01. RX-specific A.5 was also struck and was not in TX. |
+| B.1–2 | Existing eligibility remains. |
+| C.1–6 | Existing request, discretion and scheduling provisions remain; new seniority, ten-business-day, alternative-date and additional-request language incorporated. Deadline and seniority questions flagged VAC-02. |
+| D–H | Existing TX credit use, maximums, pay, transfer and catastrophic-leave provisions remain. |
+| I.1–2 | Unmarked records rules appear in shared RX/TX draft but not former TX Article 43; no marked change establishing their addition to TX, so not imported as a new TX entitlement. |
+| J | Expressly refers to the RX contract; not represented as a TX change. |
+
+### Document 07: relevance review by file
+
+| TX file | Document 07 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 07 amendment identified. |
+| article-02 | Document 06 MSP exception and MOU accretion protections remain cross-referenced to Article 43. |
+| article-03 | Reviewed; no independent document 07 amendment identified. |
+| article-04 | Reviewed; no independent document 07 amendment identified. |
+| article-05 | Existing campus closure vacation provision referenced by Article 43; no independent change. |
+| article-06 | Reviewed; no independent document 07 amendment identified. |
+| article-07 | Reviewed; no independent document 07 amendment identified. |
+| article-08 | Reviewed; no independent document 07 amendment identified. |
+| article-09 | Reviewed; no independent document 07 amendment identified. |
+| article-10 | Reviewed; no independent document 07 amendment identified. |
+| article-11 | Reviewed; no independent document 07 amendment identified. |
+| article-12 | Reviewed; no independent document 07 amendment identified. |
+| article-13 | Vacation scheduling can affect work schedules; no independent change. |
+| article-14 | Reviewed; no independent document 07 amendment identified. |
+| article-15 | Reviewed; no independent document 07 amendment identified. |
+| article-16 | Seniority definition may interact with new vacation scheduling; VAC-02 flags conflict. |
+| article-17 | Reviewed; no independent document 07 amendment identified. |
+| article-18 | Leave uses and accruals continue subject to Article 43; no independent change. |
+| article-19 | Reviewed; no independent document 07 amendment identified. |
+| article-20 | Reviewed; no independent document 07 amendment identified. |
+| article-21 | Reviewed; no independent document 07 amendment identified. |
+| article-22 | Reviewed; no independent document 07 amendment identified. |
+| article-23 | Reviewed; no independent document 07 amendment identified. |
+| article-24 | Reviewed; no independent document 07 amendment identified. |
+| article-25 | Reviewed; no independent document 07 amendment identified. |
+| article-26 | Reviewed; no independent document 07 amendment identified. |
+| article-27 | Reviewed; no independent document 07 amendment identified. |
+| article-28 | Reviewed; no independent document 07 amendment identified. |
+| article-29 | Reviewed; no independent document 07 amendment identified. |
+| article-30 | Reviewed; no independent document 07 amendment identified. |
+| article-31 | Reviewed; no independent document 07 amendment identified. |
+| article-32 | Reviewed; no independent document 07 amendment identified. |
+| article-33 | Reviewed; no independent document 07 amendment identified. |
+| article-34 | Reviewed; no independent document 07 amendment identified. |
+| article-35 | Reviewed; no independent document 07 amendment identified. |
+| article-36 | Reviewed; no independent document 07 amendment identified. |
+| article-37 | Reviewed; no independent document 07 amendment identified. |
+| article-38 | Existing vacation differential rule remains; no independent change. |
+| article-39 | Reviewed; no independent document 07 amendment identified. |
+| article-40 | Reviewed; no independent document 07 amendment identified. |
+| article-41 | Different seniority provision may affect scheduling; VAC-02 flags conflict. |
+| article-42 | Reviewed; no independent document 07 amendment identified. |
+| article-43 | Accrual-system and A&PS deletions and scheduling additions applied; unresolved details flagged. |
+| article-44 | Reviewed; no independent document 07 amendment identified. |
+| article-45 | Existing work-injury vacation provisions remain; no independent change. |
+| article-46 | Reviewed; no independent document 07 amendment identified. |
+| article-47 | Reviewed; no independent document 07 amendment identified. |
+| appendix-a | Reviewed; no independent document 07 amendment identified. |
+| appendix-b | Reviewed; no independent document 07 amendment identified. |
+| appendix-c | Reviewed; no independent document 07 amendment identified. |
+| appendix-d | Reviewed; no independent document 07 amendment identified. |
+| appendix-e | Reviewed; no independent document 07 amendment identified. |
+| appendix-f | Reviewed; no independent document 07 amendment identified. |

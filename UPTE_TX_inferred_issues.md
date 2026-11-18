@@ -173,8 +173,21 @@ spell out the detailed implementation of the Cesar Chavez exception.
 
 MOU section 8 refers to UC's August 15 and 16, 2024 proposals with additional
 language dated November 7 and 8, 2024. The RX/TX proposal appears in packet
-document 07; the separate additional language has not been identified.
-Article 43 remains provisional until those materials are reconciled.
+document 07 and its redlines are incorporated in Article 43; the separate
+additional language has not been identified. Document 07 strikes an A&PS
+accrual provision dated November 1, 1997, while the corresponding former TX
+provision is dated September 1, 1997. The TX counterpart is removed as the
+identified struck provision, subject to reconciliation with the missing later
+language and the distinct document 06 MSP-incumbent protection.
+
+## VAC-02: Scheduling and seniority
+
+Document 07 adds a ten-business-day decision requirement for written
+requests and an endeavor to respond to “additional vacation request(s)”
+within fifteen calendar days, without defining the latter or their
+relationship. It also introduces seniority-based scheduling when a
+department establishes a vacation schedule, without identifying which
+seniority definition applies; Articles 16 and 41 contain different rules.
 
 ## LEA-01: Pregnancy and childcaring leave
 

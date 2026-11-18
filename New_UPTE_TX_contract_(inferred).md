@@ -4114,8 +4114,8 @@ the former TX article. See the issues log and Article 16.]**
 
 **[Inference issues VAC-01 and ACR-01: The successor MOU states “TA on UC’s
 proposals of 8/15/24 and 8/16/24 with additional language on 11/7/24 and
-11/8/24.” The RX/TX proposal is packet document 07 and has not yet been
-reconciled; the additional language has not been identified. The MOU also
+11/8/24.” The RX/TX proposal in document 07 is incorporated below; the
+additional language has not been identified. The MOU also
 addresses accreted incumbents' vacation/PTO accruals; see Article 2 and
 the document 06 MSP language below.]**
 
@@ -4138,7 +4138,7 @@ The source also lists “INFECTION PREVENTION CRD 4 – UPTE proposed addition, 
 
 1. **VACATION ACCRUALS/CREDIT**
 
-   1. If a campus implements the following Factor Accrual System, an eligible employee shall earn vacation credit each month or quadri-weekly cycle based on the number of hours on pay status for that month or quadri-weekly cycle at the following rates:
+   1. An eligible employee shall earn vacation credit each month or quadri-weekly cycle based on the number of hours on pay status for that month or quadri-weekly cycle at the following rates:
 
 | Years of Qualifying Accumulated Service | Per Hour on Pay Status\* | Approximate Yearly Earnings\*\* | Maximum Balance |
 | :---- | :---- | :---- | :---- |
@@ -4151,23 +4151,7 @@ The source also lists “INFECTION PREVENTION CRD 4 – UPTE proposed addition, 
 
       \*\* Full-time rate.
 
-   2. For campuses retaining the Table Accrual System, an eligible employee shall earn vacation credit each month based on the number of hours on pay status for that month at the following rates:
-
-      1. ten (10) hours per month for a full-time employee with less than ten  
-         (10) years of qualifying service;
-
-      2. twelve (12) hours per month for a full-time employee with at least ten (10) but less than fifteen (15) years of qualifying service;
-
-      3. fourteen (14) hours per month for a full-time employee with at least fifteen (15) but less than twenty (20) years of qualifying service; and
-
-      4. sixteen (16) hours per month for a full-time employee with twenty  
-         (20) years or more of qualifying service.
-
    3. Earned vacation for each month or quadri-weekly cycle is credited on the first day of the following month or quadri-weekly cycle, except that proportionate vacation credit for an eligible employee who is separating from employment shall be credited at the completion of the last day on pay status.
-
-   4. Employees in titles formerly covered by the Administrative & Professional Staff Program (A\&PS) as of September 1, 1997, shall continue to accrue vacation under the A\&PS schedule until whichever event occurs first: a
-
-      break in service of four (4) or more months, or transfer out of the unit. Upon return to University service after a break in service of four (4) or more months, or to the unit from a position outside the unit, such an employee shall earn vacation in accordance with Section A.1. or A.2., above.
 
 2. ###### **ELIGIBILITY**
 
@@ -4179,9 +4163,19 @@ The source also lists “INFECTION PREVENTION CRD 4 – UPTE proposed addition, 
 
    1. An employee may request vacation.
 
-   2. The University has the sole discretion to approve or disapprove vacation requests. Vacation requests shall not be unreasonably denied. An approved vacation request shall not be unreasonably canceled.
+   2. If a department establishes a vacation schedule, requests shall be approved on the basis of seniority. This does not mandate that a department creates a vacation schedule.
 
-   3. Vacation leave requested by an employee will be scheduled in accordance with the University's operational needs and departmental procedures. Departmental procedures which restrict an employee's ability to schedule vacation shall be based on operational needs.
+   3. The University has the sole discretion to approve or disapprove vacation requests. Management shall approve or disapprove an employee’s vacation request within ten (10) business days of the date on which the request was made in writing. Vacation requests shall not be unreasonably denied. An approved vacation request shall not be unreasonably canceled.
+
+   4. Vacation leave requested by an employee will be scheduled in accordance with the University's operational needs and departmental procedures. Departmental procedures which restrict an employee's ability to schedule vacation shall be based on operational needs.
+
+   5. If a written vacation request of up to 10 consecutive calendar days is made 6 months in advance and is not approved, the department shall provide a written denial and meet with the employee to discuss possible dates to utilize the leave within six months of the date of denial. The parties shall meet within two weeks of the date of the denial to discuss alternative dates for the leave requested. If the parties are unable to reach an agreement during their discussions, the employee will request in writing that the University provide alternative dates for the leave period requested within the next six months. The University response shall satisfy the requirements of this article and the parties shall be encouraged to continue discussions if none of the proposed dates by the University is accepted by the employee.
+
+   6. The University will endeavor to respond to an employee's additional vacation request(s) within fifteen (15) calendar days of their request for use of vacation.
+
+   **[Inference issue VAC-02: The source does not define “additional vacation
+   request(s)” or explain its relationship to the ten-business-day written
+   request deadline. Seniority is addressed in Articles 16 and 41.]**
 
 4. ###### **VACATION CREDIT USE**
 
