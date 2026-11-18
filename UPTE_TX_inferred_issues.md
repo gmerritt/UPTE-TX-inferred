@@ -77,13 +77,45 @@ bands. It provides percentage caps beginning thereafter; the former Article
 relationship is not spelled out in the counterproposal. Appendices D and F
 are historical; Appendix F's 2014 figures are not 2026 rates.
 
-## LAY-01, RECL-01, REM-01 and DIF-01: Attached terms pending
+## RECL-01, REM-01 and DIF-01: Attached terms pending
 
-MOU sections 3–6 refer respectively to layoff, reclassification, remote work
-and differential mediation terms. These are identified in packet documents
-03, 05 and 06, but have not yet been incorporated or fully compared to the
-former contract. Articles 16, 41, 13 and 38 are marked accordingly. The MOU explicitly says RXTX are to
-mirror the HX reclassification changes.
+MOU sections 4–6 refer to reclassification, remote work and differential
+mediation terms. These are identified in packet documents 05 and 06, but
+have not yet been incorporated or fully compared to the former contract.
+Articles 41, 13 and 38 are marked accordingly. The MOU explicitly says RXTX
+are to mirror the HX reclassification changes.
+
+## LAY-02: Layoff numbering and cross-references
+
+Document 03 inserts “C. Alternative to Layoff,” labels both temporary and
+indefinite layoff sections D, and retains references such as “Section C.1.”
+for temporary layoff notice. It numbers indefinite layoff selection as 1,
+but then skips to 3 for notice, and labels LBNL re-employment as 3 after
+severance 1. The existing split article used the former numbering. The new
+alternative section is identified explicitly, while existing labels and
+cross-references are retained rather than guessing a comprehensive renumbering.
+
+## LAY-03: Layoff source wording
+
+Document 03 includes a period after “special skills” before “is essential” in
+the new non-career employee provision. Its severance alternatives use the
+phrase “in lieu of preferential rehire and recall rights with reduced
+severance,” and LBNL voluntary severance says the employee “will” be provided
+a payment while the next sentence still discusses when approval is normally
+given. The LBNL cross-location provision conditions termination of recall
+rights on passing a trial period while specifying the date of hiring as the
+termination date. These source readings are retained without deciding the
+parties' intended meaning.
+
+## LAY-04: Related layoff provisions
+
+Document 03 deletes an express exclusion of term appointees in the LBNL
+severance section and states that non-probationary career employees are
+eligible. Article 31 separately says Article 16's layoff and severance
+provisions do not apply to term employees. Their relationship has not been
+resolved. Article 40 separately specifies a subcontracting-displacement
+alternative and says its provisions control when inconsistent with Article
+16; document 03 supplies no express amendment to Article 40.
 
 ## HOL-01: Holiday proposal and Cesar Chavez exception
 

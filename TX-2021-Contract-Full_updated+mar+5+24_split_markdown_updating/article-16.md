@@ -2,17 +2,17 @@
 
    **LAYOFF AND REDUCTION IN TIME**
 
-**[Inference issues LAY-01 and SEN-01: The successor MOU states “Layoffs – per
-mediation TA on 11/7.” The RX/TX layoff text is packet document 03 and has not
-yet been incorporated. The MOU also refers to a seniority side letter, whose
-complete text has not been identified. See Article 41. The former article
-below is retained provisionally.]**
+**[Inference issues LAY-02, LAY-03 and SEN-01: Packet document 03 contains
+inconsistent section numbering and wording requiring clarification; its
+changes are incorporated below without silently repairing those ambiguities.
+The MOU also refers to a seniority side letter whose complete text has not
+been identified. See Article 41.]**
 
 1. **GENERAL CONDITIONS**
 
    1. Layoffs may be temporary or indefinite and may occur because of budgetary reasons, curtailment of operations, lack of work, reorganization, or redefinition of the University's or department's needs.
 
-   2. The University shall have the sole right to determine:
+   2. The University shall have the sole, non-grievable, non-arbitrable right to determine:
 
       1. when temporary or indefinite layoffs in career positions shall occur, the units of layoff, and the unit in which the layoffs shall occur, and
 
@@ -25,6 +25,11 @@ below is retained provisionally.]**
    5. The terms of this Article shall not apply to probationary or non-career employees, except as specifically provided in this Article.
 
    6. The procedures for fulfilling the terms of this Article may vary by campus. However, campus procedures must be consistent with the provisions of this Article.
+
+   7. Prior to implementing any indefinite layoff, the University shall release all non-career employees covered by this agreement within the same layoff unit, except where there is a Bonafide business reason. Bonafide business reason includes but is not limited to that the non-career employee has special skills. is essential to the continuity of operational needs, or that the non-career employee is a different job title than the affected employee.
+
+      **[Inference issue LAY-03: The period after “special skills” is present in
+      the source; its intended punctuation is unclear.]**
 
 2. ###### **DEFINITIONS**
 
@@ -43,6 +48,18 @@ below is retained provisionally.]**
       (120) calendar days from the effective date of the layoff.
 
    3. An indefinite layoff is one for which the affected employee receives no date for return to work, or no date of restoration to her/his former appointment rate.
+
+#### **C. ALTERNATIVE TO LAYOFF**
+
+1. In order to avoid a layoff, the University shall offer an affected employee another vacant career position in the bargaining unit at the same or lower classification and same or lower appointment percentage, if any are available, at the same campus/medical center or Laboratory, provided the affected employee is qualified to fill the vacancy. Nothing prevents the University from offering a higher rate of pay or greater percentage of time if such a position is vacant and the employee is qualified to fill it. Such action will nullify the layoff.
+
+2. Provided the affected employee possesses the skills, certifications and licenses required, for an open position and the University has determined that the employee could learn the requisite skills required to be deemed qualified by the University within three (3) months from the date of the layoff notice or the last day the person is scheduled to work in their current position, the University shall consider offering such a position to the affected employee as an alternative to layoff.
+
+3. If the University determines that an employee can obtain the required certifications or licenses within a three (3) month period, rather than being laid off, the employee shall be permitted to use vacation, compensatory time off, or unpaid leave to be given the opportunity to obtain the required credentials. The three month period begins on the date of the layoff notice or on the last day the employees is scheduled to work in their current position. In no event, shall the leave exceed three-months. If the employee takes a leave to obtain the credentials but does not obtain the credentials, the employee shall be laid off.
+
+**[Inference issues LAY-02 and LAY-04: The source labels both temporary and
+indefinite layoff section D and retains cross-references to former section C.
+Article 40 has a separate rule for subcontracting displacement.]**
 
 3. ###### **TEMPORARY LAYOFF**
 
@@ -75,10 +92,6 @@ below is retained provisionally.]**
 4. ###### **INDEFINITE LAYOFF**
 
    The University shall effectuate indefinite layoffs as follows.
-
-   1. **Alternatives To Layoff**
-
-      In order to avoid a layoff, the University may reassign an employee to a position for which the employee is qualified at the same or greater percentage of time and at the same or higher rate of pay. Such action will nullify the layoff.
 
    2. **Selection For Layoff**
 
@@ -130,7 +143,7 @@ below is retained provisionally.]**
 
       2. Such employees are rehired provided:
 
-         1) the active, vacant career position is in the same bargaining unit and at the same campus/hospital/LBNL as the position from which the employee was laid off; and
+         1) the active, vacant career position is in the same bargaining unit and at any campus/hospital/LBNL as the position from which the employee was laid off; and
 
          2) the active, vacant career position is in a class with the same or lower salary range maximum as the class from which the employee was laid off; and
 
@@ -159,9 +172,11 @@ below is retained provisionally.]**
 
    6. If an employee voluntarily reduces her/his time due to budgetary reasons, curtailment of operations, lack of work, reorganization, or redefinition of the University's or department's needs within one (1) year prior to her/his layoff, the employee is entitled to recall/rehire rights to a percentage appointment equal to that from which the employee voluntarily stepped down. In order to be eligible for such increased recall/rehire rights, the employee must submit to her/his supervisor a written statement confirming the offer for the voluntary reduction in time when the voluntary reduction in time occurs and her/his supervisor must approve the voluntary reduction in time.
 
-   7. **Severance** \- Effective through September 30, 2017, career employees who receive their notice of indefinite layoff may elect severance pay either
+   7. **Severance**
 
-      a) or b) below within fourteen (14) calendar days as follows: If the employee does not timely elect either a) or b), and notify the University according to local procedures, the employee will be determined to have elected b).
+      **[Inference issue LAY-03: The source uses “in lieu of preferential
+      rehire and recall rights with reduced severance” in describing both
+      alternatives; its intended reading is not resolved.]**
 
 1. A career employee who has received her/his notice of indefinite layoff may elect, in writing to receive severance pay in lieu of preferential rehire and recall rights with reduced severance, within
 
@@ -195,7 +210,7 @@ below is retained provisionally.]**
 
 4. When an employee is rehired to a career position before the expiration of the number of weeks for which the employee has received severance payments, he or she will be required to pay back the remaining severance amounts as a condition of employment. The repayment will be on a proportional basis if the rehired position is a different percentage than the original appointment.
 
-   If a career employee is rehired after previous layoff and severance payment and then subsequently laid off again, he/she may be eligible for additional severance based on employee's election in Section D.7 for the severance-eligible layoff. The employee's previous layoff election of severance or preference and recall with reduced severance will remain the same for any additional layoff action that occurs and the employee may be eligible for additional severance based on the following:
+   If a career employee is rehired after previous layoff and severance payment and then subsequently laid off again, he/she may be eligible for additional severance based on employee's election in Section D.7 for the severance-eligible layoff. The employee's previous layoff election of severance or preferential rehire and recall with reduced severance will remain the same for any additional layoff action that occurs and the employee may be eligible for additional severance based on the following:
 
    1) Option 1 (break in service upon original layoff) \- employee is eligible only for severance based on service credit earned after break in service.
 
@@ -213,7 +228,11 @@ below is retained provisionally.]**
 
    1. **Severance**
 
-      Career employees (excluding term appointees) who are eligible for vacation and sick-leave credits and are laid off from employment for an indefinite period due to lack of work or lack of funds are eligible for severance payments in accordance with the following provisions. Career employees who are on temporary layoff status, temporary reduction in time, or permanently reduced in time are not eligible for severance payments.
+      Non-probationary career employees who are laid off from employment for an indefinite period due to lack of work or lack of funds are eligible for severance payments in accordance with the following provisions. Career employees who are on temporary layoff status, temporary reduction in time, or permanently reduced in time are not eligible for severance payments.
+
+      **[Inference issue LAY-04: The source deletes an express exclusion of
+      term appointees here; Article 31 separately states that Article 16's
+      layoff and severance provisions do not apply to term employees.]**
 
       1. **Definitions**
 
@@ -245,9 +264,9 @@ below is retained provisionally.]**
 
       2. **Severance Payment Calculations and Methods of Payment**
 
-         1) The severance payment will be made in an amount equal to one (1) week's pay for each year of continuous full-time-equivalent Laboratory service (including service at Lawrence Livermore National Laboratory and Los Alamos National Laboratory while these labs were managed by the University of California). A fractional year of full-time service of six (6) months or more is counted as one (1) year of service. The severance payment is not to exceed a total of twenty six (26) weeks' pay.
+         1) The severance payment will be made in an amount equal to one (1) week's pay for each year of continuous full-time-equivalent Laboratory service (including service at Lawrence Livermore National Laboratory and Los Alamos National Laboratory while these labs were managed by the University of California). Anything less than FTE service will be calculated at a reduced rate. A fractional year of full-time service of six (6) months or more is counted as one (1) year of service. The severance payment is not to exceed a total of twenty six (26) weeks' pay.
 
-         2) Severance will be paid in a lump sum at the time of termination.
+         2) Severance will be paid in a lump sum at the time of termination, and will include appropriate taxes and other withholdings deductions.
 
       3. **Limitations**
 
@@ -259,9 +278,9 @@ below is retained provisionally.]**
 
          4) Severance payments will not be made to any employee who terminates for any reason other than layoff, with the following exceptions:
 
-            1) An employee who resigns after receiving formal notification of layoff but before the effective date of layoff may be provided severance payments with the approval of the Chief Operating Officer (COO) or designee.
+            1) An employee who resigns after receiving formal notification of layoff but before the effective date of layoff will be provided a severance payment.
 
-            2) An employee who resigns in lieu of another employee who would have been laid off may be provided severance payments with the approval of the COO or designee. Normally, such approval will be given only if the resignation will not have a detrimental effect on work in progress and if the employee concerned had not announced plans to resign or retire before the announcement of a layoff within the employee's division.
+            2) An employee who resigns in lieu of another employee who would have been laid off will be provided a severance payment. Normally, approval of a voluntary layoff will be given only if the resignation will not have a detrimental effect on work in progress and if the employee concerned had not announced plans to resign or retire before the announcement of a layoff within the employee's division.
 
       4. **Duplicate Pay**: An employee at the Laboratory shall not receive duplicate pay for any period during which s/he has received severance pay. In the event an employee is compensated by the Laboratory for any period during which s/he received severance pay, the employee shall be responsible for returning the severance pay for that period.
 
@@ -307,7 +326,7 @@ below is retained provisionally.]**
 
          5) An employee who has been terminated due to indefinite layoff will be given first consideration for preference for
 
-            employment to active and vacant career positions, as described above, for which he/she has applied.
+            employment to active and vacant career positions, as described above, for which the employee has applied.
 
          6) A layoff unit manager may reject an employee with preference for re-employment or transfer only if the employee lacks qualifications required for the position. Reasons for rejection will be provided by the layoff unit manager in writing to the Head of the Human Resources Department for review and approval.
 
@@ -329,7 +348,11 @@ below is retained provisionally.]**
 
              on written request of the employee and approval of the Head of the Human Resources Department.
 
-      3. **Re-Employment at Another University Location**: If a person on recall and/or preferential rehire status desires to be considered for employment at a University of California campus or another laboratory, the Head of the Human Resources Department will provide the manager at that location with a copy of the individual's resume and a written request for consideration.
+      3. **Re-Employment at Another University Location**: If a person on recall and/or preferential rehire status desires to be considered for employment at a University of California campus or another laboratory, the Head of the Human Resources Department will provide the manager at that location with a copy of the individual's resume and a written request for consideration. If an employee who was laid off from the Laboratory is hired into a career position at a UC location and passes the trial employment period, if required, their rights to recall and preferences for rehire at the Laboratory terminates on the date of such hiring.
+
+         **[Inference issue LAY-03: The source conditions termination on
+         passing a trial period but gives the date of hiring as the termination
+         date; the temporal relationship is unclear.]**
 
       4. **Benefits on Re-Employment**: When a person is re-employed within the period of right to recall and/or preference for re-employment, the periods before and after layoff are considered as continuous service for the limited purpose of applying University policies concerning sick leave, vacation, holidays, probationary period, reduced fee enrollment, seniority points for layoff, military leave, and merit salary increases. All prior sick leave credit will be reinstated during the period of eligibility up to a period of three years. Benefits and credits for service, including those relating to retirement systems, do not accrue for periods on recall and/or preferential rehire status. The employee should contact the Benefits Office/Department immediately upon re-employment for assistance.
 

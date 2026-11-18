@@ -106,6 +106,10 @@
 
    7. The layoff and severance provisions described in Article 16 – Layoff and Reduction in Time of this agreement do not apply to term employees.
 
+      **[Inference issue LAY-04: Document 03 deletes an express exclusion of
+      term appointees from the LBNL severance provision in Article 16. The
+      relationship to this provision is unresolved.]**
+
    8. Employees in term appointments are automatically terminated as of the last day of their appointment unless there is a written notice of extension of the appointment. Employees in term appointments may be terminated before the end of their appointment for disciplinary reasons or substandard performance. The appointment may also be terminated early for lack of funds, lack of work, or changes in operational/business needs in which case, whenever possible, an employee should be given at least thirty (30) days' advance written notice that his/her appointment will be terminated. The early termination of a term appointment is not grievable or arbitrable.
 
    9. Once a position has been designated as a term appointment per \#2 above, the posting of any additional term appointments supporting the same project requires an explicit written agreement between LBNL and the President of UPTE local 184 or designee if the appointment dates of the positions overlap.

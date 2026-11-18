@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 03–16 have not been processed. The document
+**Work in progress.** Documents 04–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -13,7 +13,7 @@ packet PDF pages 1–4.
 | --- | --- | --- |
 | 1.a–e Compensation | Article 6; Appendices A and B; COMP-01 | MOU wording retained; missing scales and prior terms flagged |
 | 2 Healthcare | Article 4, Appendices D and F; HLT-01 | Document 02 incorporated; historical relationship unresolved |
-| 3 Layoffs | Article 16; LAY-01 | Attached document 03 remains to be processed |
+| 3 Layoffs | Article 16; LAY-02–04 | Document 03 redlines incorporated; ambiguities flagged |
 | 4 Reclassification | Article 41; RECL-01 | Explicit RX/TX mirroring noted; document 05 remains |
 | 5 Differentials | Article 38; DIF-01 | Attached document 06 remains |
 | 6 Remote work | Article 13; REM-01 | Attached document 06 remains |
@@ -62,7 +62,7 @@ other articles or by later packet documents.
 | article-13 | Remote-work attachment pending; marked. |
 | article-14 | Indemnification and grievance/arbitration references; no independent change. |
 | article-15 | Labor-management meetings and bargaining representatives; no independent change. |
-| article-16 | Layoff attachment and seniority side letter unresolved; marked. |
+| article-16 | Layoff changes from document 03 incorporated; seniority side letter unresolved. |
 | article-17 | Short-term notice changed; HX cap alignment needs no TX amendment. |
 | article-18 | NX leave extension retained; detailed reconciliation pending. |
 | article-19 | Management rights; no independent change. |
@@ -175,3 +175,98 @@ to Article 4 continue to point to the successor provisions.
 | appendix-d | Historical benefits listing retained with updated healthcare issue note. |
 | appendix-e | Parking; no independent healthcare premium change. |
 | appendix-f | Historical 2014 rates retained and distinguished from unavailable 2026 baseline. |
+
+## Document 03: RX/TX layoff and reduction in time
+
+Source: `03-upte-mediation-counter-art16-layoff-rx-tx.md`, packet PDF pages
+7–24. The PDF redline, not the flattened Markdown alone, identifies insertions
+and deletions. The existing Article 16 was compared with all source sections.
+
+| Source provision | Disposition in Article 16 |
+| --- | --- |
+| A.1, A.3–6 | Existing general conditions retained. |
+| A.2.a–b | Added “non-grievable, non-arbitrable.” |
+| A.7 | Added non-career release rule and business-reason exceptions; punctuation flagged LAY-03. |
+| B.1.a–d, B.2–3 | Existing definitions retained. |
+| C.1 | Replaced former optional alternative with required vacancy offer and higher-pay/time exception. |
+| C.2–3 | Added consideration of learnable skills and credential leave, including all three-month conditions. |
+| D temporary 1.a–c, c.1–2, 2–3 | Existing temporary layoff, conversion and work-sharing provisions retained; numbering issue LAY-02. |
+| D indefinite 1.a–f | Existing selection provisions retained; numbering issue LAY-02. |
+| D indefinite 3.a–c | Existing notice and activation provisions retained. |
+| D indefinite 4.a–d | Existing recall provisions retained. |
+| D indefinite 5.a, b.1–3 | Rehire conditions retained, with “same” location changed to “any.” |
+| D indefinite 5.c–g.1–3, 6 | Existing preference and voluntary-reduction provisions retained. |
+| D indefinite 7 introductory paragraph | Deleted the struck-through 2017 deadline/default paragraph. |
+| D indefinite 7.a.1–3 and 7.b.1.a–c, 2–3 | Severance and reduced-severance source wording already present in baseline; retained; ambiguity LAY-03. |
+| D indefinite 7.c | Source's repeated “or reduced severance” wording already present; retained. |
+| D indefinite 7.d.1–2 | Retained repayment rules; updated “preference” to “preferential rehire.” |
+| E.1–3 | Existing continuity provisions retained. |
+| F.1 opening | Applied redline to LBNL eligibility, including deletion of express term and leave-credit exclusions; LAY-04. |
+| F.1.a.i.a–g, ii–iii | Existing LBNL definitions retained. |
+| F.1.b.i–ii | Added reduced FTE calculation and withholding wording. |
+| F.1.c.i–iii | Existing limitations retained. |
+| F.1.c.iv.a–b | Applied “will” and approval redlines; remaining approval wording flagged LAY-03. |
+| F.1.d–e | Existing duplicate-pay and repayment terms retained. |
+| F.3.a.i–viii | Existing recall provisions retained; numbering issue LAY-02. |
+| F.3.b.i–iv, vi–x | Existing preference provisions retained. |
+| F.3.b.v | Changed “he/she” to “the employee.” |
+| F.3.c | Added cross-location termination sentence; timing flagged LAY-03. |
+| F.3.d–f | Existing benefits, records and voluntary reduction provisions retained. |
+
+### Document 03: relevance review by file
+
+| File | Disposition |
+| --- | --- |
+| article-01 | Access; no independent layoff provision. |
+| article-02 | Agreement; no independent layoff provision. |
+| article-03 | Arbitration framework retained; Article 16 specifies non-arbitrable determinations. |
+| article-04 | Temporary layoff health benefits retained; no independent premium change. |
+| article-05 | Closure; no independent layoff change. |
+| article-06 | Compensation; no independent layoff change. |
+| article-07 | Discipline; no independent layoff change. |
+| article-08 | Training reimbursement refers to layoffs; no independent change supplied. |
+| article-09 | Duration; no independent layoff change. |
+| article-10 | Grievance framework retained; Article 16 specifies non-grievable determinations. |
+| article-11 | Health and safety; no independent layoff change. |
+| article-12 | Holiday pay during temporary layoff retained. |
+| article-13 | Hours; no independent layoff change. |
+| article-14 | Indemnification; no independent layoff change. |
+| article-15 | Labor-management meetings; no independent layoff change. |
+| article-16 | Complete redline compared and substantive changes incorporated. |
+| article-17 | Union leave return rights refer to layoffs; no independent change supplied. |
+| article-18 | Leave reinstatement refers to layoffs; no independent change supplied. |
+| article-19 | Management rights; no independent replacement supplied. |
+| article-20 | Medical separation; no independent layoff change. |
+| article-21 | Military leave; no independent layoff change. |
+| article-22 | Moving expenses; no independent layoff change. |
+| article-23 | Multiple appointments; no independent layoff change. |
+| article-24 | No strikes; no independent layoff change. |
+| article-25 | Nondiscrimination; no independent layoff change. |
+| article-26 | Out-of-class pay; no independent layoff change. |
+| article-27 | Parking; no independent layoff change. |
+| article-28 | Payroll deductions; no independent layoff change. |
+| article-29 | Performance evaluation; no independent layoff change. |
+| article-30 | Personnel files; no independent layoff change. |
+| article-31 | Article 16 applies to reductions in time; LBNL term exclusion conflict marked LAY-04. |
+| article-32 | Probationary rehire references Article 16; no independent change supplied. |
+| article-33 | Accommodation; no independent layoff change. |
+| article-34 | Bargaining release time; no independent layoff change. |
+| article-35 | Resignation; no independent layoff change. |
+| article-36 | Respectful treatment; no independent layoff change. |
+| article-37 | Severability; no independent layoff change. |
+| article-38 | Shift differential; no independent layoff change. |
+| article-39 | Sick leave; no independent layoff change. |
+| article-40 | Subcontracting alternative and explicit precedence retained; LAY-04. |
+| article-41 | Vacancy-filling and cross-location recall refer to Article 16; no independent amendment supplied here. |
+| article-42 | Travel reimbursement; no independent layoff change. |
+| article-43 | Vacation; no independent layoff change. |
+| article-44 | Waiver; no independent layoff change. |
+| article-45 | Work-incurred injury; no independent layoff change. |
+| article-46 | Work rules; no independent layoff change. |
+| article-47 | Uniforms; no independent layoff change. |
+| appendix-a | Salary lookup; no independent layoff change. |
+| appendix-b | LBNL salary ranges; no independent layoff change. |
+| appendix-c | Grievance form; no replacement form supplied. |
+| appendix-d | Benefits listing; no independent layoff change. |
+| appendix-e | Parking; no independent layoff change. |
+| appendix-f | Historical medical rates; no independent layoff change. |
