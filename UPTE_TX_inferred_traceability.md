@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 10–16 have not been processed. The document
+**Work in progress.** Documents 11–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -734,3 +734,79 @@ floating holiday; the MOU and proposal wording are retained with HOL-01.
 | appendix-d | Reviewed; no independent document 09 amendment identified. |
 | appendix-e | Reviewed; no independent document 09 amendment identified. |
 | appendix-f | Reviewed; no independent document 09 amendment identified. |
+
+## Document 10: HX holiday proposal
+
+Source: `10-uc-counterproposal-2-art10-holidays-hx.md`, packet PDF pages
+58–61. Each page identifies HX. The MOU cites both the RX/TX and HX proposals
+and states the Cesar Chavez exception; it does not explicitly extend the
+HX-only personal-holiday implementation or other HX terms to TX. The MOU's
+own exception remains in TX Article 12 and is flagged HOL-01.
+
+| HX source provisions | TX disposition |
+| --- | --- |
+| A and holiday list | HX holiday schedule and struck 13-holiday cap; not imported to TX. Document 09 supplies RX/TX changes. |
+| B.1.a–b and B.2 | HX medical center/hospital personal-holiday rules; not imported into TX merely to resolve HOL-01. |
+| Eligibility and compensation 1–2.a–b | HX holiday eligibility and compensation; not imported into TX. |
+| Pay for holidays worked 3.a–d | HX worked-holiday pay and exempt/part-time terms; not imported into TX. Document 09 independently supplies the RX/TX exempt wording. |
+| Holiday compensatory time 4 | HX holiday bank provisions; not imported into TX. |
+| D, E temporary layoff, F.1–3 | HX religious observance, temporary layoff and LBNL provisions; not imported into TX. |
+| E major holidays (PDF page 61) | HX scheduling language; not imported into TX. TX major-holiday changes are addressed by document 09. |
+
+### Document 10: relevance review by file
+
+| TX file | HX document 10 disposition |
+| --- | --- |
+| article-01 | HX-only article does not amend this TX file. |
+| article-02 | HX-only article does not amend this TX file. |
+| article-03 | HX-only article does not amend this TX file. |
+| article-04 | HX-only article does not amend this TX file. |
+| article-05 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-06 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-07 | HX-only article does not amend this TX file. |
+| article-08 | HX-only article does not amend this TX file. |
+| article-09 | HX-only article does not amend this TX file. |
+| article-10 | HX-only article does not amend this TX file. |
+| article-11 | HX-only article does not amend this TX file. |
+| article-12 | TX holiday counterpart governed by separate RX/TX document 09 and MOU; do not import HX-only terms. |
+| article-13 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-14 | HX-only article does not amend this TX file. |
+| article-15 | HX-only article does not amend this TX file. |
+| article-16 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-17 | HX-only article does not amend this TX file. |
+| article-18 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-19 | HX-only article does not amend this TX file. |
+| article-20 | HX-only article does not amend this TX file. |
+| article-21 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-22 | HX-only article does not amend this TX file. |
+| article-23 | HX-only article does not amend this TX file. |
+| article-24 | HX-only article does not amend this TX file. |
+| article-25 | HX-only article does not amend this TX file. |
+| article-26 | HX-only article does not amend this TX file. |
+| article-27 | HX-only article does not amend this TX file. |
+| article-28 | HX-only article does not amend this TX file. |
+| article-29 | HX-only article does not amend this TX file. |
+| article-30 | HX-only article does not amend this TX file. |
+| article-31 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-32 | HX-only article does not amend this TX file. |
+| article-33 | HX-only article does not amend this TX file. |
+| article-34 | HX-only article does not amend this TX file. |
+| article-35 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-36 | HX-only article does not amend this TX file. |
+| article-37 | HX-only article does not amend this TX file. |
+| article-38 | HX-only article does not amend this TX file. |
+| article-39 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-40 | HX-only article does not amend this TX file. |
+| article-41 | HX-only article does not amend this TX file. |
+| article-42 | HX-only article does not amend this TX file. |
+| article-43 | Existing related TX references reviewed; HX-only article does not amend them. |
+| article-44 | HX-only article does not amend this TX file. |
+| article-45 | HX-only article does not amend this TX file. |
+| article-46 | HX-only article does not amend this TX file. |
+| article-47 | HX-only article does not amend this TX file. |
+| appendix-a | HX-only article does not amend this TX file. |
+| appendix-b | HX-only article does not amend this TX file. |
+| appendix-c | HX-only article does not amend this TX file. |
+| appendix-d | HX-only article does not amend this TX file. |
+| appendix-e | HX-only article does not amend this TX file. |
+| appendix-f | HX-only article does not amend this TX file. |
