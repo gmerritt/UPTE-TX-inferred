@@ -6,7 +6,9 @@
 inconsistent section numbering and wording requiring clarification; its
 changes are incorporated below without silently repairing those ambiguities.
 The MOU also refers to a seniority side letter whose complete text has not
-been identified. See Article 41.]**
+been identified. Document 05's new Article 41 seniority and tiebreaker
+language differs from the seniority calculation below; their relationship is
+unresolved. See Article 41.]**
 
 1. **GENERAL CONDITIONS**
 

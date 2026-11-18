@@ -1,5 +1,10 @@
    ###### **ARTICLE 46 WORK RULES**
 
+**[Inference issue RECL-03: Document 05 calls its classification-meetings
+addendum “Article 46 – Workplace Committees.” The addendum is reproduced
+provisionally with the labor-management meetings in Article 15 because this
+TX Article 46 concerns Work Rules; its final placement is unresolved.]**
+
 1. **GENERAL PROVISIONS**
 
    1. The University has the sole right to promulgate, supplement, alter, modify, amend, and rescind, work rules. For the purposes of this Article, work rules are defined as rules promulgated by the University which regulate employees relative to and affecting their employment. Work rules may be implemented only for reasons of bona-fide business and/or health and safety necessity.

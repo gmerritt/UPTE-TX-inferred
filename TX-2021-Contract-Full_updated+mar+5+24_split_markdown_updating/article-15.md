@@ -41,3 +41,14 @@
 
    2. Without-loss-of-pay-status release time will be provided for the duration of the meeting, and for reasonable travel time to and from the meeting. Up to a total of eight (8) hours in one day release time may be provided for attendance at a university-wide labor/management meeting. Any travel and subsistence incurred by the employee(s) attending the meeting(s) shall be the responsibility of the employees or UPTE.
 
+#### **Document 05 addendum to Article 46 – Workplace Committees**
+
+**[Inference issue RECL-03: The source names Article 46 “Workplace Committees,”
+but TX Article 46 is Work Rules; TX Article 15 covers labor-management
+meetings. This addendum is reproduced here provisionally, without deciding its
+final placement, the number of meetings, or how it interacts with the
+existing meeting provisions. The source also refers to “Article 16 insert
+management rights article”; TX Article 19 is Management Rights.]**
+
+A. The parties may convene up 4 times per calendar year to discuss concerns regarding job classifications and to attempt to resolve outstanding disputes related to the same. UPTE shall provide a list of outstanding concerns regarding job classifications to the University at least 14 days prior to a meeting so that the University can adequately prepare and respond to the underlying issue. Where disputes are not resolved through a joint labor management meeting, the matter may be submitted as a systemwide grievance to SWLR but is not subject to arbitration. Nothing about this Article or provision changes or alters the University’s rights set forth in Article 16 insert management rights article.
+

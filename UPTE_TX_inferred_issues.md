@@ -77,13 +77,49 @@ bands. It provides percentage caps beginning thereafter; the former Article
 relationship is not spelled out in the counterproposal. Appendices D and F
 are historical; Appendix F's 2014 figures are not 2026 rates.
 
-## RECL-01, REM-01 and DIF-01: Attached terms pending
+## RECL-01: Reclassification mirroring
 
-MOU sections 4–6 refer to reclassification, remote work and differential
-mediation terms. These are identified in packet documents 05 and 06, but
-have not yet been incorporated or fully compared to the former contract.
-Articles 41, 13 and 38 are marked accordingly. The MOU explicitly says RXTX
-are to mirror the HX reclassification changes.
+MOU section 4 directs RX/TX to mirror the attached HX reclassification
+changes. Document 05 is headed RX/TX/HX and Article 41 (RX/TX); its marked
+changes are incorporated in Article 41. Its unmarked Staff Research Associate
+I provision is not imported as a new TX entitlement merely because it appears
+in the shared draft. The source skips from E.1.f to E.1.h after that provision.
+The source's upward-reclassification increase uses “whichever is greater”
+and expressly caps discretionary additional increases; the former TX wording
+also capped the four-percent increase. The relationship requires confirmation.
+
+## RECL-02: Hiring and seniority conflicts
+
+Document 05 adds consideration of substantially equally qualified applicants,
+whereas the former TX article says to “first consider” career employees. Both
+are retained pending clarification rather than silently deleting the earlier
+term. Document 05 cites Article 25, Section B, for nondiscrimination; in the
+former TX article Section B defines sexual harassment. Its Article 41 seniority
+and tie-breaker provisions use date of hire and pay-status hours, whereas
+Article 16 uses full-time-equivalent service and date of appointment in the
+reverse order. The source does not identify which rule governs a conflict.
+
+## RECL-03: Classification meetings addendum
+
+Document 05 calls the classification-meetings addendum “Article 46 – Workplace
+Committees” and ends with “Article 16 insert management rights article.”
+TX Article 46 is Work Rules, Article 15 covers labor-management meetings and
+Article 19 is Management Rights. The exact source wording, including “up 4
+times,” is provisionally placed in Article 15; its final location, meaning
+and relationship to existing meetings and rights have not been determined.
+
+## RECL-04: Prior classification-review steps
+
+The former TX article allows forwarding when a supervisor fails to respond
+within 30 calendar days and directs the University office's response to the
+supervisor with a copy to the employee. Document 05's new acknowledgment,
+forwarding and written-results provisions use different actors and recipients.
+The former wording is retained alongside the new text pending reconciliation.
+
+## REM-01 and DIF-01: Attached terms pending
+
+MOU sections 5–6 refer to differential and remote-work mediation terms in
+packet document 06. Articles 38 and 13 are marked pending its review.
 
 ## LAY-02: Layoff numbering and cross-references
 

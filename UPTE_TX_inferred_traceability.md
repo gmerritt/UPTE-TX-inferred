@@ -1,6 +1,6 @@
 # UPTE TX inferred contract: traceability
 
-**Work in progress.** Documents 05–16 have not been processed. The document
+**Work in progress.** Documents 06–16 have not been processed. The document
 01 entries below record the MOU-level dispositions, not a claim that all
 referenced attached or missing agreements have already been incorporated.
 
@@ -14,7 +14,7 @@ packet PDF pages 1–4.
 | 1.a–e Compensation | Article 6; Appendices A and B; COMP-01 | MOU wording retained; missing scales and prior terms flagged |
 | 2 Healthcare | Article 4, Appendices D and F; HLT-01 | Document 02 incorporated; historical relationship unresolved |
 | 3 Layoffs | Article 16; LAY-02–04 | Document 03 redlines incorporated; ambiguities flagged |
-| 4 Reclassification | Article 41; RECL-01 | Explicit RX/TX mirroring noted; document 05 remains |
+| 4 Reclassification | Articles 15, 16, 41 and 46; RECL-01–03 | Document 05 changes incorporated; conflicts and placement flagged |
 | 5 Differentials | Article 38; DIF-01 | Attached document 06 remains |
 | 6 Remote work | Article 13; REM-01 | Attached document 06 remains |
 | 7.a Additional holiday | Article 12; HOL-01 | MOU wording retained |
@@ -353,3 +353,87 @@ to refer to that TX article, not HX Article 13.
 | appendix-d | HX-only article does not amend this TX file. |
 | appendix-e | HX-only article does not amend this TX file. |
 | appendix-f | HX-only article does not amend this TX file. |
+
+## Document 05: transfer, promotion and reclassification
+
+Source: `05-uc-mediation-proposal-art41-31-transfer-promotion-reclassification.md`,
+packet PDF pages 36–41. The source is headed RX/TX/HX and names Article 41
+for RX/TX; the MOU directs RX/TX to mirror the HX changes. PDF redlines were
+checked visually. Unmarked HX/RX baseline wording is not assumed to replace
+different former TX wording merely by appearing in the joint proposal.
+
+| Source provision | TX disposition |
+| --- | --- |
+| A: electronic recruitment | Existing TX wording retained; source changes only the initial capital letter. |
+| A: title criteria and URL | Added to Article 41. |
+| A.1–2: seniority and tiebreaker | Added to Article 41; conflict with Article 16 and unidentified seniority side letter marked. |
+| B | Existing interview release provision remains. |
+| C.1.a–c | Added “career” to Article 41's vacancy priority; existing recall and preference text remains. |
+| C.1.d and C.2 | New applicant consideration and internal-applicant restriction added; inconsistent TX “first consider” and Section B reference flagged. |
+| C.3 | Existing reasonable-accommodation exception remains. |
+| D.1–3 | Existing consideration remains; promotion and transfer definitions added. |
+| D.4–7 | Promotion cap wording added; existing development, recall-related benefits and non-grievability remain. Former upward reclassification salary provision relocated and replaced by new E.2.a; cap uncertainty flagged. |
+| E.1.a–f | Union requests, acknowledgment, recommendation, 60-day outcome, review committee, factors and extension added. The PDF strikes 120 days and leaves 60 days; former forwarding and response provisions retained and flagged. |
+| E.1.g | Unmarked Staff Research Associate I provision in shared draft is not assumed to change TX; omitted. |
+| E.1.h | Classification office and committee list added, retaining source letter. |
+| E.2.a–c | New upward-reclassification compensation and biweekly retroactivity added; existing range requirement retained. |
+| E.3 | Procedural compliance is grievable/arbitrable with the stated remedy and limitation; added to Article 41. |
+| Addendum | Exact wording reproduced provisionally in Article 15; Article 46 and Article 16 source references flagged as not matching TX headings. |
+
+### Document 05: relevance review by file
+
+| TX file | Document 05 disposition |
+| --- | --- |
+| article-01 | Reviewed; no independent document 05 amendment identified. |
+| article-02 | Out-of-unit reclassification remains separate; no specific amendment. |
+| article-03 | Arbitration procedure applies to new procedural compliance; no independent text amendment. |
+| article-04 | Reviewed; no independent document 05 amendment identified. |
+| article-05 | Reviewed; no independent document 05 amendment identified. |
+| article-06 | Existing compensation and Laboratory terms remain; new reclassification rule in Article 41, cap relationship flagged. |
+| article-07 | Reviewed; no independent document 05 amendment identified. |
+| article-08 | Reviewed; no independent document 05 amendment identified. |
+| article-09 | Reviewed; no independent document 05 amendment identified. |
+| article-10 | New Article 41 procedural compliance and Article 15 systemwide grievance rules; no independent amendment. |
+| article-11 | Reviewed; no independent document 05 amendment identified. |
+| article-12 | Reviewed; no independent document 05 amendment identified. |
+| article-13 | Reviewed; no independent document 05 amendment identified. |
+| article-14 | Reviewed; no independent document 05 amendment identified. |
+| article-15 | Classification-meetings addendum reproduced provisionally; Article 46 and management-rights references flagged. |
+| article-16 | Seniority conflict with Article 41 flagged; original layoff seniority retained. |
+| article-17 | Reviewed; no independent document 05 amendment identified. |
+| article-18 | Reviewed; no independent document 05 amendment identified. |
+| article-19 | Management rights identified as possible addendum target; no change assumed. |
+| article-20 | Reviewed; no independent document 05 amendment identified. |
+| article-21 | Reviewed; no independent document 05 amendment identified. |
+| article-22 | Reviewed; no independent document 05 amendment identified. |
+| article-23 | Reviewed; no independent document 05 amendment identified. |
+| article-24 | Reviewed; no independent document 05 amendment identified. |
+| article-25 | Source cites Section B for nondiscrimination; TX Section B differs, flagged. |
+| article-26 | Reviewed; no independent document 05 amendment identified. |
+| article-27 | Reviewed; no independent document 05 amendment identified. |
+| article-28 | Reviewed; no independent document 05 amendment identified. |
+| article-29 | Reviewed; no independent document 05 amendment identified. |
+| article-30 | Reviewed; no independent document 05 amendment identified. |
+| article-31 | Reviewed; no independent document 05 amendment identified. |
+| article-32 | Reviewed; no independent document 05 amendment identified. |
+| article-33 | Reviewed; no independent document 05 amendment identified. |
+| article-34 | Reviewed; no independent document 05 amendment identified. |
+| article-35 | Reviewed; no independent document 05 amendment identified. |
+| article-36 | Reviewed; no independent document 05 amendment identified. |
+| article-37 | Reviewed; no independent document 05 amendment identified. |
+| article-38 | Reviewed; no independent document 05 amendment identified. |
+| article-39 | Reviewed; no independent document 05 amendment identified. |
+| article-40 | Reviewed; no independent document 05 amendment identified. |
+| article-41 | Redlined RX/TX mirroring terms applied; preserved conflicting TX hiring term and flagged uncertainty. |
+| article-42 | Reviewed; no independent document 05 amendment identified. |
+| article-43 | Reviewed; no independent document 05 amendment identified. |
+| article-44 | Reviewed; no independent document 05 amendment identified. |
+| article-45 | Reviewed; no independent document 05 amendment identified. |
+| article-46 | Source calls Article 46 Workplace Committees, but TX Article 46 is Work Rules; marked. |
+| article-47 | Reviewed; no independent document 05 amendment identified. |
+| appendix-a | Reviewed; no independent document 05 amendment identified. |
+| appendix-b | Reviewed; no independent document 05 amendment identified. |
+| appendix-c | Reviewed; no independent document 05 amendment identified. |
+| appendix-d | Reviewed; no independent document 05 amendment identified. |
+| appendix-e | Reviewed; no independent document 05 amendment identified. |
+| appendix-f | Reviewed; no independent document 05 amendment identified. |

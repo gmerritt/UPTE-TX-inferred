@@ -1886,6 +1886,17 @@ Pursuant to and as regulated by the terms, limitations and qualifications of Cal
 
    2. Without-loss-of-pay-status release time will be provided for the duration of the meeting, and for reasonable travel time to and from the meeting. Up to a total of eight (8) hours in one day release time may be provided for attendance at a university-wide labor/management meeting. Any travel and subsistence incurred by the employee(s) attending the meeting(s) shall be the responsibility of the employees or UPTE.
 
+#### **Document 05 addendum to Article 46 – Workplace Committees**
+
+**[Inference issue RECL-03: The source names Article 46 “Workplace Committees,”
+but TX Article 46 is Work Rules; TX Article 15 covers labor-management
+meetings. This addendum is reproduced here provisionally, without deciding its
+final placement, the number of meetings, or how it interacts with the
+existing meeting provisions. The source also refers to “Article 16 insert
+management rights article”; TX Article 19 is Management Rights.]**
+
+A. The parties may convene up 4 times per calendar year to discuss concerns regarding job classifications and to attempt to resolve outstanding disputes related to the same. UPTE shall provide a list of outstanding concerns regarding job classifications to the University at least 14 days prior to a meeting so that the University can adequately prepare and respond to the underlying issue. Where disputes are not resolved through a joint labor management meeting, the matter may be submitted as a systemwide grievance to SWLR but is not subject to arbitration. Nothing about this Article or provision changes or alters the University’s rights set forth in Article 16 insert management rights article.
+
 ---
 
       **ARTICLE 16**
@@ -1896,7 +1907,9 @@ Pursuant to and as regulated by the terms, limitations and qualifications of Cal
 inconsistent section numbering and wording requiring clarification; its
 changes are incorporated below without silently repairing those ambiguities.
 The MOU also refers to a seniority side letter whose complete text has not
-been identified. See Article 41.]**
+been identified. Document 05's new Article 41 seniority and tiebreaker
+language differs from the seniority calculation below; their relationship is
+unresolved. See Article 41.]**
 
 1. **GENERAL CONDITIONS**
 
@@ -3934,16 +3947,24 @@ provisionally.]**
 
    ###### **ARTICLE 41 TRANSFER/PROMOTION/RECLASSIFICATION**
 
-**[Inference issues RECL-01 and SEN-01: The successor MOU states
-“Reclassification - per mediation TA on HX version attached, RXTX to mirror
-changes”; packet document 05 has not yet been incorporated. It also specifies
-“Seniority Side Letter: TA on UC Proposal #2 of 3/10/25 to be incorporated
-into appropriate article of CBA.” The complete referenced seniority proposal
-has not been identified. See also Article 16.]**
+**[Inference issues RECL-01, RECL-02 and SEN-01: The MOU directs RX/TX to
+mirror the HX reclassification changes in packet document 05. Its new
+seniority language differs from Article 16, and the complete seniority side
+letter referenced by the MOU has not been identified. Document 05 also
+contains cross-references and hiring language that do not map cleanly onto
+the former TX article. See the issues log and Article 16.]**
 
 1. **GENERAL PROVISIONS**
 
    Until a campus/hospital/LBNL implements an electronic recruitment system, a notice of vacant positions shall be distributed and/or posted in accordance with current practice(s). Prior to implementing an electronic recruitment system, the campus will provide to all employees information about the employee application process under the new system. Any new electronic recruitment process shall be generally accessible to employees and shall have a method available for employees to determine classifications or positions that are generally available to all employees for application, in accordance with the campus system. Upon written request, the University shall provide or make accessible to UPTE a regular list of and information about positions that are under recruitment.
+
+   The University maintains a set of clear criteria for the distinction between job classifications within each title series covered under the Agreement (hereinafter “Title Series Criteria”). That criteria is available to employees at:
+
+   https://universityofcalifornia.marketpayjobs.com/
+
+   **Seniority.** Seniority shall be based on the most recent date of hire in a career position at the University. Employment prior to break in service of 120 days or more shall not be counted.
+
+   **Tiebreaker.** When bargaining unit employees in the same layoff unit have the same date of hire, seniority shall be determined according to total hours on pay status since the most recent date of hire into a career position.
 
 2. ###### **RELEASE TIME FOR UNIVERSITY INTERVIEWS**
 
@@ -3951,7 +3972,7 @@ has not been identified. See also Article 16.]**
 
 3. ###### **FILLING VACANT POSITIONS**
 
-   1. An active vacant bargaining unit position shall be filled in the following order:
+   1. An active vacant career bargaining unit position shall be filled in the following order:
 
       1. by recall of a qualified indefinitely laid off non-probationary career employee in accordance with Article 16 \- Layoff and Reduction in Time
 
@@ -3959,9 +3980,18 @@ has not been identified. See also Article 16.]**
 
       3. by any other qualified applicant.
 
+      4. If, in the evaluation of the hiring manager, two or more applicants are substantially equally qualified, the hiring manager shall make the determination taking into consideration Article 25 - Nondiscrimination, Section B. and the University will maintain its Federal contractor status. The University shall give consideration to providing transfer and promotion opportunities for career employees. In considering an employee for transfer and promotion, the University shall consider the employee’s University work performance and experience.
+
    2. When "other qualified applicants" are substantially equally qualified, the University shall first consider providing transfer and promotion
 
       opportunities to qualified career employee applicants, including considering their work performance history and experience.
+
+      **[Inference issue RECL-02: The prior TX “first consider” provision and
+      document 05's new consideration language are both retained pending
+      clarification. Document 05 cites Article 25, Section B, which is the
+      sexual-harassment definition in the former TX article.]**
+
+   **Document 05, C.2.** The University at its sole discretion, on a location-by location basis and on a vacancy-by-vacancy basis may, in the posting of vacancies to be filled, restrict the eligible applicants for the vacancy to current University employees.
 
    3. In those instances where the University is considering the employment qualifications of individuals available for reasonable accommodation or reemployment following medical separation, the provisions of Section C.1. need not apply.
 
@@ -3969,9 +3999,11 @@ has not been identified. See also Article 16.]**
 
    1. In considering an employee for transfer and promotion, the University shall consider the employee's University work performance and experience.
 
-   2. Upon promotion, an employee shall be compensated at a rate at least equivalent to the minimum of the salary range of the new class. In addition, the University at its sole discretion may determine that the employee should receive an increase to greater than the minimum of the salary range of the new class. The University may exercise this sole discretion on a location-by-location basis and on a promotion-by-promotion basis and on a non-precedential basis. In those instances where such discretion is exercised the resultant individual rate of pay shall not exceed the maximum of the position salary range.
+   **Document 05, D.2.** A promotion is the change of an employee from one position to another position which is in a class having a higher salary range maximum.
 
-   3. Upon upward reclassification, an employee shall be granted at least a salary increase to the minimum of the salary range of the new class, with at least a four percent (4%) increase, provided that the new rate does not exceed the maximum of the new class.
+   **Document 05, D.3.** A transfer is the change of an employee from one position to another position which is in a class having the same salary range maximum.
+
+   2. Upon promotion, an employee shall be compensated at a rate at least equivalent to the minimum of the salary range of the new class. In addition, the University at its sole discretion may determine that the employee should receive an increase to greater than the minimum of the salary range of the new class, but no higher than the maximum of the position salary range. The University may exercise this sole discretion on a location-by-location basis and on a promotion-by-promotion basis and on a non-precedential basis.
 
    4. In accordance with campus/hospital/LBNL practice, the University shall inform employees of career development and/or training programs which might assist them with transfers and/or promotions.
 
@@ -3991,19 +4023,45 @@ has not been identified. See also Article 16.]**
 
    1. **Request for Classification Review**
 
-      1. An employee may request a review of the classification of her or his position. The review shall be based on the employee's job description, as approved by the employee's supervisor.
+      a. An employee or UPTE on the employee’s behalf may request a review of the classification of their position. The review shall be based on the employee’s job description as approved by the employee’s supervisor.
 
-      2. If the employee makes the request for review of a classification and the supervisor fails to respond within thirty (30) calendar days, the employee may forward the request to the designated University office responsible for classification review.
+      b. Once a reclassification request has been initiated by an employee, the designated University office shall confirm receipt and shall provide their recommendation within thirty (30) days of receipt. If acknowledgement has not been received in thirty (30) days the request may be forwarded to the designated University office responsible for classification review. In conducting a reclassification review, the University shall apply the criteria for the position referenced in Section A of this Article.
 
-      3. The response from the University office shall be directed to the supervisor with a copy to the employee.
+      c. As soon as possible, but no later than sixty (60) days from the date of receipt of the request for reclassification review, the University shall issue the results of the reclassification review in writing to the employee and the department.
 
-      4. The University's decision to reclassify or not to reclassify is not subject to the Grievance and Arbitration provisions of this Agreement. However, an employee may request a review of a decision denying a reclassification. The request for a review shall be made in writing to the Human Resources Office within thirty (30) calendar days of the date on which the reclassification decision was issued. The request shall state the basis upon which the employee is requesting a review. The result of the review shall be issued in writing by a representative of the Human Resources Office. The representative who issues the second decision may not be the same individual who performed the initial review.
+      **[Inference issue RECL-04: The former TX provisions below are retained
+      pending clarification of how they interact with the new acknowledgment,
+      forwarding and written-results procedures.]**
+
+      If the employee makes the request for review of a classification and the supervisor fails to respond within thirty (30) calendar days, the employee may forward the request to the designated University office responsible for classification review.
+
+      The response from the University office shall be directed to the supervisor with a copy to the employee.
+
+      d. An employee may request a review of a decision denying a reclassification. The request for a review shall be made in writing to the designated university office within 30 calendar days of the date on which the reclassification decision was issued. The request shall state the basis upon which the employee is requesting a review. The employee may include documentation they believed to be relevant to the review. The request will be reviewed by a committee of compensation professionals from across the system, who shall meet quarterly to review these petitions, unless there are no petitions to review. The committee shall apply the criteria referenced in Section A of this Article. The committee’s decision shall be issued in writing by a representative of the classification unit other than the representative who issued the initial decision. Except related to procedural compliance, as stated below, the decision is final and not subject to grievance or arbitration processes.
+
+      e. A request for reclassification shall consider the following:
+
+      - Nature or type of work performed.
+      - Level of responsibility
+      - Impact of position on the unit, department, or campus
+      - Reporting relationships
+      - Scope of duties
+      - Complexity of work
+      - Knowledge and skills required to perform the duties.
+
+      f. The University at its sole discretion may extend a deadline in b), c), and d) above by 30 days upon providing written notice to the employee and the union.
+
+      h. The University shall provide UPTE with a list of the office(s) and individual responsible for classification review at each campus and the classification committee within 120 days of ratification.
 
    2. **Salary Adjustments**
 
-      1. Any salary increase resulting from a reclassification shall be retroactive to the first of the month following the date on which the request to the designated University office was received.
+      1. An employee whose position has been reclassified upward shall be granted a salary increase to the minimum of the salary range for the new class or of four percent (4%), whichever is greater. The University at its sole discretion may, upon the reclassification of an employee, determine that the employee should receive an increase of greater than one step in amount. The University may exercise this sole discretion on a location-by-location basis and on a reclassification-by-reclassification basis and on a non-precedential basis. In those instances where such discretion is exercised the resultant individual rate of pay shall not exceed the maximum of the position salary range.
 
-      2. Upon movement between positions with different salary range maximums, or the reclassification of the employee's position, an employee shall receive a salary that is within the range of the new classification.
+      2. Any salary increases resulting from a reclassification shall be retroactive to the first of the month for monthly paid employees, and for bi-weekly paid employees the first full pay period of the month following the date on which the request to the designated University office was received.
+
+      3. Upon movement between positions with different salary range maximums, or the reclassification of the employee's position, an employee shall receive a salary that is within the range of the new classification.
+
+   3. Decisions or actions taken or not taken regarding transfer, promotion and reclassification are at the University’s sole, non-grievable discretion and not subject to Article 10– Grievance Procedure of this Agreement. Notwithstanding the foregoing, compliance with the reclassification procedural requirements set forth above is subject to the grievance and arbitration procedures and, in the event of non-compliance, the university will be ordered to follow the agreed upon process. In no event shall an arbitrator substitute its own judgment for that of the University’s with respect to determining an employee’s classification.
 
 ---
 
@@ -4210,6 +4268,11 @@ packet document 06.]**
 ---
 
    ###### **ARTICLE 46 WORK RULES**
+
+**[Inference issue RECL-03: Document 05 calls its classification-meetings
+addendum “Article 46 – Workplace Committees.” The addendum is reproduced
+provisionally with the labor-management meetings in Article 15 because this
+TX Article 46 concerns Work Rules; its final placement is unresolved.]**
 
 1. **GENERAL PROVISIONS**
 
